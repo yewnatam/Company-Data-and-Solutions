@@ -1,0 +1,148 @@
+{
+  "tickers.json": {
+    "url": "https://www.sec.gov/files/company_tickers.json",
+    "sha256": "f7df07ad6f7b145fd2e26392d08ed9c7e55445cf64eb3d7cefca6ef7e8531ff1",
+    "bytes": 799925,
+    "retrieved_at": "2026-10-15T01:02:13.761066+00:00"
+  },
+  "roster.html": {
+    "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+    "sha256": "6ee7a506654e3b9f63142f712d270ee4021ccce0cdf3a4a55446386f9b7fb1ae",
+    "bytes": 570665,
+    "retrieved_at": "2026-10-15T01:02:12.986877+00:00"
+  },
+  "RevenueFromContractWithCustomerExcludingAssessedTax_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax/USD/CY2025.json",
+    "sha256": "cc55a6a7c5fc361f10a5b74ab380916f7df6a5e19d508987d6d3ea2bc6085751",
+    "bytes": 414431,
+    "retrieved_at": "2026-10-15T01:02:18.837083+00:00"
+  },
+  "RevenueFromContractWithCustomerExcludingAssessedTax_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax/USD/CY2024.json",
+    "sha256": "4856169fb591eca8d0ffe4e2d5b5af96f772b4f4941c03a9fc09cd0f5a7b6fcb",
+    "bytes": 454558,
+    "retrieved_at": "2026-10-15T01:02:18.850911+00:00"
+  },
+  "holdings.xlsx": {
+    "url": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+    "sha256": "aa260f9db6ca00cdc599235d14171c09a9a9b1b30e08b34a8fa8562bc1741d7c",
+    "bytes": 54426,
+    "retrieved_at": "2026-10-15T01:02:25.343915+00:00"
+  },
+  "Revenues_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/Revenues/USD/CY2025.json",
+    "sha256": "e7e1ed67d52d30d54de3cd06e1cb834afccd05b1a5516e37734f43137d7bc8be",
+    "bytes": 345215,
+    "retrieved_at": "2026-10-15T01:02:26.077277+00:00"
+  },
+  "Revenues_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/Revenues/USD/CY2024.json",
+    "sha256": "20771897bf8ba318e026b5ecd41127fe36a1fab3ffe021dab6d49381867e9150",
+    "bytes": 383633,
+    "retrieved_at": "2026-10-15T01:02:26.113032+00:00"
+  },
+  "SalesRevenueNet_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/SalesRevenueNet/USD/CY2024.json",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "RevenueFromContractWithCustomerIncludingAssessedTax_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenueFromContractWithCustomerIncludingAssessedTax/USD/CY2024.json",
+    "sha256": "d224e857175ace91f20194ba73cffb8e73ea440b4aaada4b6f55edb944545ef7",
+    "bytes": 115700,
+    "retrieved_at": "2026-10-15T01:02:32.787251+00:00"
+  },
+  "SalesRevenueNet_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/SalesRevenueNet/USD/CY2025.json",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "RevenueFromContractWithCustomerIncludingAssessedTax_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenueFromContractWithCustomerIncludingAssessedTax/USD/CY2025.json",
+    "sha256": "5c7d615d072d120902bfa1a4e9a5ad06a51797ca079f2614afbeede1599f23fc",
+    "bytes": 101063,
+    "retrieved_at": "2026-10-15T01:02:39.212248+00:00"
+  },
+  "RevenuesNetOfInterestExpense_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenuesNetOfInterestExpense/USD/CY2024.json",
+    "sha256": "a91680df53ff2fecfa501d036b8e241a17e8285d36f7f647d66c18293f1b7ae5",
+    "bytes": 8742,
+    "retrieved_at": "2026-10-15T01:02:39.242764+00:00"
+  },
+  "RevenuesNetOfInterestExpense_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/RevenuesNetOfInterestExpense/USD/CY2025.json",
+    "sha256": "60ec86d47f6f2bbd675dea795f1b0757fcf0cd9b1366a73a63b1e5a02f0e2728",
+    "bytes": 7228,
+    "retrieved_at": "2026-10-15T01:02:45.430951+00:00"
+  },
+  "NetIncomeLoss_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/NetIncomeLoss/USD/CY2025.json",
+    "sha256": "73655cfd53ed57f34bd27c862b7b3dbd86d2d0b28576c2e5f61295aa9487b8cd",
+    "bytes": 867666,
+    "retrieved_at": "2026-10-15T01:02:45.608081+00:00"
+  },
+  "NetIncomeLoss_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/NetIncomeLoss/USD/CY2024.json",
+    "sha256": "42cae715f694a99907a79ba45d30d9b4d9ccfc654e57c794f2d477b4a24983de",
+    "bytes": 925111,
+    "retrieved_at": "2026-10-15T01:02:47.169298+00:00"
+  },
+  "ProfitLoss_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/ProfitLoss/USD/CY2024.json",
+    "sha256": "bd3674da51c6939bc73df78abcb7f4604502108d9f724362b9c2bd94b85594c4",
+    "bytes": 510051,
+    "retrieved_at": "2026-10-15T01:02:53.048403+00:00"
+  },
+  "OperatingIncomeLoss_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/OperatingIncomeLoss/USD/CY2024.json",
+    "sha256": "f82d4e4406504e335c78a31054216b68166f312e90859f43070b5dd50c721893",
+    "bytes": 768561,
+    "retrieved_at": "2026-10-15T01:02:53.094914+00:00"
+  },
+  "ProfitLoss_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/ProfitLoss/USD/CY2025.json",
+    "sha256": "3012cec456469dd430895bc03763ae57c83ff46168865ae6871184c4187acff0",
+    "bytes": 454684,
+    "retrieved_at": "2026-10-15T01:02:53.196926+00:00"
+  },
+  "NetCashProvidedByUsedInOperatingActivities_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/NetCashProvidedByUsedInOperatingActivities/USD/CY2024.json",
+    "sha256": "eb90b7135751ecd7dd0f95abf5947019d0d064fb849ee5fd4f5d69522c4d6009",
+    "bytes": 951212,
+    "retrieved_at": "2026-10-15T01:03:01.160731+00:00"
+  },
+  "OperatingIncomeLoss_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/OperatingIncomeLoss/USD/CY2025.json",
+    "sha256": "1702ff75651bf402a9929f61e3497d746e8e5838174f0e6d599980b653b756d2",
+    "bytes": 713151,
+    "retrieved_at": "2026-10-15T01:03:01.228671+00:00"
+  },
+  "NetCashProvidedByUsedInOperatingActivities_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/NetCashProvidedByUsedInOperatingActivities/USD/CY2025.json",
+    "sha256": "ea7350f4f9a59e032c3eeda0c8e073ad01ac8ca32ef7bd3840ab243c0b233130",
+    "bytes": 888470,
+    "retrieved_at": "2026-10-15T01:03:01.275264+00:00"
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/PaymentsToAcquirePropertyPlantAndEquipment/USD/CY2024.json",
+    "sha256": "bf39e8941973597db0b3826b0e3f8e120784d77baef7d5b648ea0d5e2c0abca5",
+    "bytes": 596866,
+    "retrieved_at": "2026-10-15T01:03:08.279273+00:00"
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/PaymentsToAcquirePropertyPlantAndEquipment/USD/CY2025.json",
+    "sha256": "23ef7052dbe59050995e7754035674810298700b1695c1736b6d7814c9ab652c",
+    "bytes": 539088,
+    "retrieved_at": "2026-10-15T01:03:08.381390+00:00"
+  },
+  "EarningsPerShareDiluted_2024.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/EarningsPerShareDiluted/USD-per-shares/CY2024.json",
+    "sha256": "de6a4b456528c3011b401e15256ea708ec8a7604188a3870dd87cf9d05db9a03",
+    "bytes": 827419,
+    "retrieved_at": "2026-10-15T01:03:08.383732+00:00"
+  },
+  "EarningsPerShareDiluted_2025.json": {
+    "url": "https://data.sec.gov/api/xbrl/frames/us-gaap/EarningsPerShareDiluted/USD-per-shares/CY2025.json",
+    "sha256": "1d043b8ec1fe6662c54b0a59b4d84d295c3d3a6965068238a235bbf8bc71a1da",
+    "bytes": 755914,
+    "retrieved_at": "2026-10-15T01:03:15.338063+00:00"
+  }
+}
