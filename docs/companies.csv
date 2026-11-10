@@ -1,0 +1,485 @@
+company,tickers,identifier,sector,industry,current_start,current_end,prior_start,prior_end,revenue_concept,display_basis
+3M,MMM,66740,Industrials,Industrial Conglomerates,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+A. O. Smith,AOS,91142,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Abbott Laboratories,ABT,1800,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+AbbVie,ABBV,1551152,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Accenture,ACN,1467373,Information Technology,IT Consulting & Other Services,2024-09-01,2025-08-31,2023-09-01,2024-08-31,Revenues,Annual SEC comparison
+Adobe Inc.,ADBE,796343,Information Technology,Application Software,2024-11-30,2025-11-28,2023-12-02,2024-11-29,Revenues,Annual SEC comparison
+Advanced Micro Devices,AMD,2488,Information Technology,Semiconductors,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+AES Corporation,AES,874761,Utilities,Independent Power Producers & Energy Traders,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Aflac,AFL,4977,Financials,Life & Health Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Agilent Technologies,A,1090872,Health Care,Life Sciences Tools & Services,2024-11-01,2025-10-31,2023-11-01,2024-10-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Air Products,APD,2969,Materials,Industrial Gases,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Airbnb,ABNB,1559720,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Akamai Technologies,AKAM,1086222,Information Technology,Internet Services & Infrastructure,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Albemarle Corporation,ALB,915913,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Alexandria Real Estate Equities,ARE,1035443,Real Estate,Office REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Align Technology,ALGN,1097149,Health Care,Health Care Supplies,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Allegion,ALLE,1579241,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Alliant Energy,LNT,352541,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Allstate,ALL,899051,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Alphabet Inc.,GOOGL / GOOG,1652044,Communication Services,Interactive Media & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+Altria,MO,764180,Consumer Staples,Tobacco,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Amazon,AMZN,1018724,Consumer Discretionary,Broadline Retail,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+Ameren,AEE,1002910,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+American Electric Power,AEP,4904,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+American Express,AXP,4962,Financials,Consumer Finance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+American International Group,AIG,5272,Financials,Multi-line Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+American Tower,AMT,1053507,Real Estate,Telecom Tower REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+American Water Works,AWK,1410636,Utilities,Water Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ameriprise Financial,AMP,820027,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Ametek,AME,1037868,Industrials,Electrical Components & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Amgen,AMGN,318154,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Amphenol,APH,820313,Information Technology,Electronic Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Analog Devices,ADI,6281,Information Technology,Semiconductors,2024-11-03,2025-11-01,2023-10-29,2024-11-02,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Aon plc,AON,315293,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Apollo Global Management,APO,1858681,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Apple Inc.,AAPL,320193,Information Technology,"Technology Hardware, Storage & Peripherals",2024-09-29,2025-09-27,2023-10-01,2024-09-28,RevenueFromContractWithCustomerExcludingAssessedTax,"Fiscal Q3 2026 · ended Jun. 27, 2026"
+Applied Materials,AMAT,6951,Information Technology,Semiconductor Materials & Equipment,2024-10-28,2025-10-26,2023-10-30,2024-10-27,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+AppLovin,APP,1751008,Communication Services,Advertising,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Aptiv,APTV,1521332,Consumer Discretionary,Automotive Parts & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Arch Capital Group,ACGL,947484,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Archer Daniels Midland,ADM,7084,Consumer Staples,Agricultural Products & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Ares Management,ARES,1176948,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Arista Networks,ANET,1596532,Information Technology,Communications Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Arthur J. Gallagher & Co.,AJG,354190,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Assurant,AIZ,1267238,Financials,Multi-line Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+AT&T,T,732717,Communication Services,Integrated Telecommunication Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Atmos Energy,ATO,731802,Utilities,Gas Utilities,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Autodesk,ADSK,769397,Information Technology,Application Software,2025-02-01,2026-01-31,2024-02-01,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Automatic Data Processing,ADP,8670,Industrials,Human Resource & Employment Services,2024-07-01,2025-06-30,2023-07-01,2024-06-30,Revenues,Annual SEC comparison
+AutoZone,AZO,866787,Consumer Discretionary,Automotive Retail,2024-09-01,2025-08-30,2023-08-27,2024-08-31,Revenues,Annual SEC comparison
+Avery Dennison,AVY,8818,Materials,Paper & Plastic Packaging Products & Materials,2024-12-29,2025-12-31,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Axon Enterprise,AXON,1069183,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Baker Hughes,BKR,1701605,Energy,Oil & Gas Equipment & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ball Corporation,BALL,9389,Materials,"Metal, Glass & Plastic Containers",2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Bank of America,BAC,70858,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Baxter International,BAX,10456,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Becton Dickinson,BDX,10795,Health Care,Health Care Equipment,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Berkshire Hathaway,BRK.B,1067983,Financials,Multi-Sector Holdings,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Best Buy,BBY,764478,Consumer Discretionary,Computer & Electronics Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,Revenues,Annual SEC comparison
+Bio-Techne,TECH,842023,Health Care,Life Sciences Tools & Services,2024-07-01,2025-06-30,2023-07-01,2024-06-30,Revenues,Annual SEC comparison
+Biogen,BIIB,875045,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+BlackRock,BLK,2012383,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Blackstone Inc.,BX,1393818,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"Block, Inc.",XYZ,1512673,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Bloom Energy,BE,1664703,Industrials,Electrical Components & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+BNY Mellon,BNY,1390777,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Boeing,BA,12927,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Booking Holdings,BKNG,1075531,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Boston Scientific,BSX,885725,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Bristol Myers Squibb,BMY,14272,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Broadcom,AVGO,1730168,Information Technology,Semiconductors,2024-11-04,2025-11-02,2023-10-30,2024-11-03,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Broadridge Financial Solutions,BR,1383312,Industrials,Data Processing & Outsourced Services,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Brown & Brown,BRO,79282,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Brown–Forman,BF.B,14693,Consumer Staples,Distillers & Vintners,2025-05-01,2026-04-30,2024-05-01,2025-04-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Bunge Global,BG,1996862,Consumer Staples,Agricultural Products & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"BXP, Inc.",BXP,1037540,Real Estate,Office REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+C.H. Robinson,CHRW,1043277,Industrials,Air Freight & Logistics,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Cadence Design Systems,CDNS,813672,Information Technology,Application Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Camden Property Trust,CPT,906345,Real Estate,Multi-Family Residential REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Capital One,COF,927628,Financials,Consumer Finance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cardinal Health,CAH,721371,Health Care,Health Care Distributors,2024-07-01,2025-06-30,2023-07-01,2024-06-30,Revenues,Annual SEC comparison
+Carnival Corporation,CCL,815097,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2024-12-01,2025-11-30,2023-12-01,2024-11-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Carrier Global,CARR,1783180,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Carvana,CVNA,1690820,Consumer Discretionary,Automotive Retail,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Casey's,CASY,726958,Consumer Staples,Food Retail,2025-05-01,2026-04-30,2024-05-01,2025-04-30,Revenues,Annual SEC comparison
+Caterpillar Inc.,CAT,18230,Industrials,Construction Machinery & Heavy Transportation Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cboe Global Markets,CBOE,1374310,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+CBRE Group,CBRE,1138118,Real Estate,Real Estate Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CDW Corporation,CDW,1402057,Information Technology,Technology Distributors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Cencora,COR,1140859,Health Care,Health Care Distributors,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Centene Corporation,CNC,1071739,Health Care,Managed Health Care,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CenterPoint Energy,CNP,1130310,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CF Industries,CF,1324404,Materials,Fertilizers & Agricultural Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Charles River Laboratories,CRL,1100682,Health Care,Life Sciences Tools & Services,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Charles Schwab Corporation,SCHW,316709,Financials,Investment Banking & Brokerage,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Charter Communications,CHTR,1091667,Communication Services,Cable & Satellite,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Chevron Corporation,CVX,93410,Energy,Integrated Oil & Gas,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Chipotle Mexican Grill,CMG,1058090,Consumer Discretionary,Restaurants,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Chubb Limited,CB,896159,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Church & Dwight,CHD,313927,Consumer Staples,Household Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ciena,CIEN,936395,Information Technology,Communications Equipment,2024-11-03,2025-11-01,2023-10-29,2024-11-02,Revenues,Annual SEC comparison
+Cigna,CI,1739940,Health Care,Health Care Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cincinnati Financial,CINF,20286,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cintas,CTAS,723254,Industrials,Diversified Support Services,2025-06-01,2026-05-31,2024-06-01,2025-05-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Cisco,CSCO,858877,Information Technology,Communications Equipment,2024-07-28,2025-07-26,2023-07-30,2024-07-27,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Citigroup,C,831001,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Citizens Financial Group,CFG,759944,Financials,Regional Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Clorox,CLX,21076,Consumer Staples,Household Products,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+CME Group,CME,1156375,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CMS Energy,CMS,811156,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Coca-Cola Company (The),KO,21344,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cognizant,CTSH,1058290,Information Technology,IT Consulting & Other Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Coherent Corp.,COHR,820318,Information Technology,Electronic Components,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Coinbase,COIN,1679788,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Colgate-Palmolive,CL,21665,Consumer Staples,Household Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Comcast,CMCSA,1166691,Communication Services,Cable & Satellite,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Comfort Systems USA,FIX,1035983,Industrials,Construction & Engineering,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+ConocoPhillips,COP,1163165,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Consolidated Edison,ED,1047862,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Constellation Brands,STZ,16918,Consumer Staples,Distillers & Vintners,2025-03-01,2026-02-28,2024-03-01,2025-02-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Constellation Energy,CEG,1868275,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Cooper Companies (The),COO,711404,Health Care,Health Care Supplies,2024-11-01,2025-10-31,2023-11-01,2024-10-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Copart,CPRT,900075,Industrials,Diversified Support Services,2024-08-01,2025-07-31,2023-08-01,2024-07-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Corning Inc.,GLW,24741,Information Technology,Electronic Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Corpay,CPAY,1175454,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CoStar Group,CSGP,1057352,Real Estate,Real Estate Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Costco,COST,909832,Consumer Staples,Consumer Staples Merchandise Retail,2024-09-02,2025-08-31,2023-09-04,2024-09-01,Revenues,Annual SEC comparison
+CRH plc,CRH,849395,Materials,Construction Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+CrowdStrike,CRWD,1535527,Information Technology,Systems Software,2025-02-01,2026-01-31,2024-02-01,2025-01-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Crown Castle,CCI,1051470,Real Estate,Telecom Tower REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CSX Corporation,CSX,277948,Industrials,Rail Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Cummins,CMI,26172,Industrials,Construction Machinery & Heavy Transportation Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+CVS Health,CVS,64803,Health Care,Health Care Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+D. R. Horton,DHI,882184,Consumer Discretionary,Homebuilding,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Danaher Corporation,DHR,313616,Health Care,Life Sciences Tools & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Datadog,DDOG,1561550,Information Technology,Application Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+DaVita,DVA,927066,Health Care,Health Care Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Deckers Brands,DECK,910521,Consumer Discretionary,Footwear,2025-04-01,2026-03-31,2024-04-01,2025-03-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Deere & Company,DE,315189,Industrials,Agricultural & Farm Machinery,2024-10-28,2025-11-02,2023-10-30,2024-10-27,Revenues,Annual SEC comparison
+Dell Technologies,DELL,1571996,Information Technology,"Technology Hardware, Storage & Peripherals",2025-02-01,2026-01-30,2024-02-03,2025-01-31,Revenues,Annual SEC comparison
+Delta Air Lines,DAL,27904,Industrials,Passenger Airlines,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Devon Energy,DVN,1090012,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Dexcom,DXCM,1093557,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Diamondback Energy,FANG,1539838,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Digital Realty,DLR,1297996,Real Estate,Data Center REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Dollar General,DG,29534,Consumer Staples,Consumer Staples Merchandise Retail,2025-02-01,2026-01-30,2024-02-03,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Dollar Tree,DLTR,935703,Consumer Staples,Consumer Staples Merchandise Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,Revenues,Annual SEC comparison
+Dominion Energy,D,715957,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Domino's,DPZ,1286681,Consumer Discretionary,Restaurants,2024-12-30,2025-12-28,2024-01-01,2024-12-29,Revenues,Annual SEC comparison
+DoorDash,DASH,1792789,Consumer Discretionary,Specialized Consumer Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Dover Corporation,DOV,29905,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Dow Inc.,DOW,1751788,Materials,Commodity Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Duke Energy,DUK,1326160,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+DuPont,DD,1666700,Industrials,Industrial Conglomerates,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Eaton Corporation,ETN,1551182,Industrials,Electrical Components & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+eBay Inc.,EBAY,1065088,Consumer Discretionary,Broadline Retail,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+EchoStar,ECHO,1415404,Communication Services,Wireless Telecommunication Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ecolab,ECL,31462,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Edison International,EIX,827052,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Edwards Lifesciences,EW,1099800,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Elevance Health,ELV,1156039,Health Care,Managed Health Care,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Emcor,EME,105634,Industrials,Construction & Engineering,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Emerson Electric,EMR,32604,Industrials,Electrical Components & Equipment,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Entergy,ETR,65984,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+EOG Resources,EOG,821189,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+EQT Corporation,EQT,33213,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Equifax,EFX,33185,Industrials,Research & Consulting Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Equinix,EQIX,1101239,Real Estate,Data Center REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Erie Indemnity,ERIE,922621,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Essex Property Trust,ESS,920522,Real Estate,Multi-Family Residential REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Estée Lauder Companies (The),EL,1001250,Consumer Staples,Personal Care Products,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Everest Group,EG,1095073,Financials,Reinsurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Evergy,EVRG,1711269,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Everpure,P,1474432,Information Technology,"Technology Hardware, Storage & Peripherals",2025-02-03,2026-02-01,2024-02-05,2025-02-02,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Eversource Energy,ES,72741,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Exelon,EXC,1109357,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Expand Energy,EXE,895126,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Expedia Group,EXPE,1324424,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Expeditors International,EXPD,746515,Industrials,Air Freight & Logistics,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Extra Space Storage,EXR,1289490,Real Estate,Self-Storage REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"F5, Inc.",FFIV,1048695,Information Technology,Communications Equipment,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+FactSet,FDS,1013237,Financials,Financial Exchanges & Data,2024-09-01,2025-08-31,2023-09-01,2024-08-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Fair Isaac,FICO,814547,Information Technology,Application Software,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Fastenal,FAST,815556,Industrials,Trading Companies & Distributors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Federal Realty Investment Trust,FRT,34903,Real Estate,Retail REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+FedEx,FDX,1048911,Industrials,Air Freight & Logistics,2025-06-01,2026-05-31,2024-06-01,2025-05-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+FedEx Freight,FDXF,2082247,Industrials,Cargo Ground Transportation,2025-06-01,2026-05-31,2024-06-01,2025-05-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ferguson Enterprises,FERG,2011641,Industrials,Trading Companies & Distributors,2024-08-01,2025-07-31,2023-08-01,2024-07-31,Revenues,Annual SEC comparison
+Fidelity National Information Services,FIS,1136893,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+First Solar,FSLR,1274494,Information Technology,Semiconductors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+FirstEnergy,FE,1031296,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Fiserv,FISV,798354,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Flex Ltd.,FLEX,866374,Information Technology,Electronic Manufacturing Services,2025-04-01,2026-03-31,2024-04-01,2025-03-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ford Motor Company,F,37996,Consumer Discretionary,Automobile Manufacturers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Fortinet,FTNT,1262039,Information Technology,Systems Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Fortive,FTV,1659166,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Fox Corporation,FOXA / FOX,1754301,Communication Services,Broadcasting,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Franklin Resources,BEN,38777,Financials,Asset Management & Custody Banks,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Freeport-McMoRan,FCX,831259,Materials,Copper,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Garmin,GRMN,1121788,Consumer Discretionary,Consumer Electronics,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Gartner,IT,749251,Information Technology,IT Consulting & Other Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+GE Aerospace,GE,40545,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+GE HealthCare,GEHC,1932393,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+GE Vernova,GEV,1996810,Industrials,Heavy Electrical Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Gen Digital,GEN,849399,Information Technology,Systems Software,2025-03-29,2026-04-03,2024-03-30,2025-03-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Generac,GNRC,1474735,Industrials,Heavy Electrical Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+General Dynamics,GD,40533,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+General Mills,GIS,40704,Consumer Staples,Packaged Foods & Meats,2025-05-26,2026-05-31,2024-05-27,2025-05-25,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+General Motors,GM,1467858,Consumer Discretionary,Automobile Manufacturers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Genuine Parts Company,GPC,40987,Consumer Discretionary,Distributors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Gilead Sciences,GILD,882095,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Global Payments,GPN,1123360,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Globe Life,GL,320335,Financials,Life & Health Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+GoDaddy,GDDY,1609711,Information Technology,Internet Services & Infrastructure,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Goldman Sachs,GS,886982,Financials,Investment Banking & Brokerage,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Halliburton,HAL,45012,Energy,Oil & Gas Equipment & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Hartford (The),HIG,874766,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Hasbro,HAS,46080,Consumer Discretionary,Leisure Products,2024-12-30,2025-12-28,2024-01-01,2024-12-29,Revenues,Annual SEC comparison
+HCA Healthcare,HCA,860730,Health Care,Health Care Facilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Healthpeak Properties,DOC,765880,Real Estate,Health Care REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Henry Schein,HSIC,1000228,Health Care,Health Care Distributors,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Hershey Company (The),HSY,47111,Consumer Staples,Packaged Foods & Meats,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Hewlett Packard Enterprise,HPE,1645590,Information Technology,"Technology Hardware, Storage & Peripherals",2024-11-01,2025-10-31,2023-11-01,2024-10-31,Revenues,Annual SEC comparison
+Hilton Worldwide,HLT,1585689,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Home Depot (The),HD,354950,Consumer Discretionary,Home Improvement Retail,2025-02-03,2026-02-01,2024-01-29,2025-02-02,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Honeywell Technologies,HON,773840,Industrials,Industrial Conglomerates,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Hormel Foods,HRL,48465,Consumer Staples,Packaged Foods & Meats,2024-10-28,2025-10-26,2023-10-30,2024-10-27,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Host Hotels & Resorts,HST,1070750,Real Estate,Hotel & Resort REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Howmet Aerospace,HWM,4281,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+HP Inc.,HPQ,47217,Information Technology,"Technology Hardware, Storage & Peripherals",2024-11-01,2025-10-31,2023-11-01,2024-10-31,Revenues,Annual SEC comparison
+Hubbell Incorporated,HUBB,48898,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Humana,HUM,49071,Health Care,Managed Health Care,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Huntington Bancshares,HBAN,49196,Financials,Regional Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Huntington Ingalls Industries,HII,1501585,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+IBM,IBM,51143,Information Technology,IT Consulting & Other Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+IDEX Corporation,IEX,832101,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Idexx Laboratories,IDXX,874716,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Illinois Tool Works,ITW,49826,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+"Illumina, Inc.",ILMN,1110803,Health Care,Life Sciences Tools & Services,2024-12-30,2025-12-28,2024-01-01,2024-12-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Incyte,INCY,879169,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ingersoll Rand,IR,1699150,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Insulet Corporation,PODD,1145197,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Intel,INTC,50863,Information Technology,Semiconductors,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Interactive Brokers,IBKR,1381197,Financials,Investment Banking & Brokerage,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Intercontinental Exchange,ICE,1571949,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+International Flavors & Fragrances,IFF,51253,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+International Paper,IP,51434,Materials,Paper & Plastic Packaging Products & Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Intuit,INTU,896878,Information Technology,Application Software,2024-08-01,2025-07-31,2023-08-01,2024-07-31,Revenues,Annual SEC comparison
+Intuitive Surgical,ISRG,1035267,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Invesco,IVZ,914208,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Invitation Homes,INVH,1687229,Real Estate,Single-Family Residential REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+IQVIA,IQV,1478242,Health Care,Life Sciences Tools & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Iron Mountain,IRM,1020569,Real Estate,Other Specialized REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+J.B. Hunt,JBHT,728535,Industrials,Cargo Ground Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+J.M. Smucker Company (The),SJM,91419,Consumer Staples,Packaged Foods & Meats,2025-05-01,2026-04-30,2024-05-01,2025-04-30,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Jabil,JBL,898293,Information Technology,Electronic Manufacturing Services,2024-09-01,2025-08-31,2023-09-01,2024-08-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Jack Henry & Associates,JKHY,779152,Financials,Transaction & Payment Processing Services,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Jacobs Solutions,J,52988,Industrials,Construction & Engineering,2024-09-28,2025-09-26,2023-09-30,2024-09-27,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Johnson & Johnson,JNJ,200406,Health Care,Pharmaceuticals,2024-12-30,2025-12-28,2024-01-01,2024-12-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Johnson Controls,JCI,833444,Industrials,Building Products,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+JPMorgan Chase,JPM,19617,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Kenvue,KVUE,1944048,Consumer Staples,Personal Care Products,2024-12-30,2025-12-28,2024-01-01,2024-12-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Keurig Dr Pepper,KDP,1418135,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+KeyCorp,KEY,91576,Financials,Regional Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Keysight Technologies,KEYS,1601046,Information Technology,Electronic Equipment & Instruments,2024-11-01,2025-10-31,2023-11-01,2024-10-31,Revenues,Annual SEC comparison
+Kimberly-Clark,KMB,55785,Consumer Staples,Household Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Kimco Realty,KIM,879101,Real Estate,Retail REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Kinder Morgan,KMI,1506307,Energy,Oil & Gas Storage & Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+KKR & Co.,KKR,1404912,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+KLA Corporation,KLAC,319201,Information Technology,Semiconductor Materials & Equipment,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Kraft Heinz,KHC,1637459,Consumer Staples,Packaged Foods & Meats,2024-12-29,2025-12-27,2023-12-31,2024-12-28,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Kroger,KR,56873,Consumer Staples,Food Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Labcorp,LH,920148,Health Care,Health Care Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Lam Research,LRCX,707549,Information Technology,Semiconductor Materials & Equipment,2025-06-30,2026-06-28,2024-07-01,2025-06-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Las Vegas Sands,LVS,1300514,Consumer Discretionary,Casinos & Gaming,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Leidos,LDOS,1336920,Industrials,Diversified Support Services,2025-01-04,2026-01-02,2023-12-30,2025-01-03,Revenues,Annual SEC comparison
+Lennar,LEN,920760,Consumer Discretionary,Homebuilding,2024-12-01,2025-11-30,2023-12-01,2024-11-30,Revenues,Annual SEC comparison
+Lennox International,LII,1069202,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Lilly (Eli),LLY,59478,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Linde plc,LIN,1707925,Materials,Industrial Gases,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Live Nation Entertainment,LYV,1335258,Communication Services,Movies & Entertainment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Lockheed Martin,LMT,936468,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Loews Corporation,L,60086,Financials,Multi-line Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Lowe's,LOW,60667,Consumer Discretionary,Home Improvement Retail,2025-02-01,2026-01-30,2024-02-03,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Lululemon Athletica,LULU,1397187,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2025-02-03,2026-02-01,2024-01-29,2025-02-02,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Lumentum,LITE,1633978,Information Technology,Communications Equipment,2025-06-29,2026-06-27,2024-06-30,2025-06-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+LyondellBasell,LYB,1489393,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+M&T Bank,MTB,36270,Financials,Regional Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Marathon Petroleum,MPC,1510295,Energy,Oil & Gas Refining & Marketing,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Marriott International,MAR,1048286,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Marsh McLennan,MRSH,62709,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Martin Marietta Materials,MLM,916076,Materials,Construction Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Marvell Technology,MRVL,1835632,Information Technology,Semiconductors,2025-02-02,2026-01-31,2024-02-04,2025-02-01,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Masco,MAS,62996,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Mastercard,MA,1141391,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+McCormick & Company,MKC,63754,Consumer Staples,Packaged Foods & Meats,2024-12-01,2025-11-30,2023-12-01,2024-11-30,Revenues,Annual SEC comparison
+McDonald's,MCD,63908,Consumer Discretionary,Restaurants,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+McKesson,MCK,927653,Health Care,Health Care Distributors,2025-04-01,2026-03-31,2024-04-01,2025-03-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Medtronic,MDT,1613103,Health Care,Health Care Equipment,2025-04-26,2026-04-24,2024-04-27,2025-04-25,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Merck & Co.,MRK,310158,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Meta Platforms,META,1326801,Communication Services,Interactive Media & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+MetLife,MET,1099219,Financials,Life & Health Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Mettler Toledo,MTD,1037646,Health Care,Life Sciences Tools & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+MGM Resorts,MGM,789570,Consumer Discretionary,Casinos & Gaming,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Microchip Technology,MCHP,827054,Information Technology,Semiconductors,2025-04-01,2026-03-31,2024-04-01,2025-03-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Micron Technology,MU,723125,Information Technology,Semiconductors,2024-08-30,2025-08-28,2023-09-01,2024-08-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Microsoft,MSFT,789019,Information Technology,Systems Software,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,"Fiscal Q4 2026 · ended Jun. 30, 2026"
+Mid-America Apartment Communities,MAA,912595,Real Estate,Multi-Family Residential REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Moderna,MRNA,1682852,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Mondelez International,MDLZ,1103982,Consumer Staples,Packaged Foods & Meats,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Monolithic Power Systems,MPWR,1280452,Information Technology,Semiconductors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Monster Beverage,MNST,865752,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Moody's Corporation,MCO,1059556,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Morgan Stanley,MS,895421,Financials,Investment Banking & Brokerage,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Mosaic Company (The),MOS,1285785,Materials,Fertilizers & Agricultural Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Motorola Solutions,MSI,68505,Information Technology,Communications Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+MSCI,MSCI,1408198,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+"Nasdaq, Inc.",NDAQ,1120193,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+NetApp,NTAP,1002047,Information Technology,"Technology Hardware, Storage & Peripherals",2025-04-26,2026-04-24,2024-04-27,2025-04-25,Revenues,Annual SEC comparison
+Netflix,NFLX,1065280,Communication Services,Movies & Entertainment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Newmont,NEM,1164727,Materials,Gold,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+News Corp,NWSA / NWS,1564708,Communication Services,Publishing,2024-07-01,2025-06-30,2023-07-01,2024-06-30,Revenues,Annual SEC comparison
+NextEra Energy,NEE,753308,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+"Nike, Inc.",NKE,320187,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2025-06-01,2026-05-31,2024-06-01,2025-05-31,RevenueFromContractWithCustomerExcludingAssessedTax,"Fiscal Q1 2027 · ended Aug. 31, 2026"
+NiSource,NI,1111711,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Nordson Corporation,NDSN,72331,Industrials,Industrial Machinery & Supplies & Components,2024-11-01,2025-10-31,2023-11-01,2024-10-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Norfolk Southern,NSC,702165,Industrials,Rail Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Northern Trust,NTRS,73124,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Northrop Grumman,NOC,1133421,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Norwegian Cruise Line Holdings,NCLH,1513761,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+NRG Energy,NRG,1013871,Utilities,Independent Power Producers & Energy Traders,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Nucor,NUE,73309,Materials,Steel,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Nvidia,NVDA,1045810,Information Technology,Semiconductors,2025-01-27,2026-01-25,2024-01-29,2025-01-26,Revenues,"Fiscal Q2 2027 · ended Jul. 26, 2026"
+"NVR, Inc.",NVR,906163,Consumer Discretionary,Homebuilding,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+NXP Semiconductors,NXPI,1413447,Information Technology,Semiconductors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+O'Reilly Automotive,ORLY,898173,Consumer Discretionary,Automotive Retail,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Occidental Petroleum,OXY,797468,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Old Dominion,ODFL,878927,Industrials,Cargo Ground Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Omnicom Group,OMC,29989,Communication Services,Advertising,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+ON Semiconductor,ON,1097864,Information Technology,Semiconductors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Oneok,OKE,1039684,Energy,Oil & Gas Storage & Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Oracle Corporation,ORCL,1341439,Information Technology,Application Software,2025-06-01,2026-05-31,2024-06-01,2025-05-31,Revenues,Annual SEC comparison
+Otis Worldwide,OTIS,1781335,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Paccar,PCAR,75362,Industrials,Construction Machinery & Heavy Transportation Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Packaging Corporation of America,PKG,75677,Materials,Paper & Plastic Packaging Products & Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Palantir Technologies,PLTR,1321655,Information Technology,Application Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Palo Alto Networks,PANW,1327567,Information Technology,Systems Software,2024-08-01,2025-07-31,2023-08-01,2024-07-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Parker Hannifin,PH,76334,Industrials,Industrial Machinery & Supplies & Components,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Paychex,PAYX,723531,Industrials,Human Resource & Employment Services,2025-06-01,2026-05-31,2024-06-01,2025-05-31,Revenues,Annual SEC comparison
+PayPal,PYPL,1633917,Financials,Transaction & Payment Processing Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Pentair,PNR,77360,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+PepsiCo,PEP,77476,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2024-12-29,2025-12-27,2023-12-31,2024-12-28,Revenues,Annual SEC comparison
+Pfizer,PFE,78003,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+PG&E Corporation,PCG,1004980,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Philip Morris International,PM,1413329,Consumer Staples,Tobacco,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Phillips 66,PSX,1534701,Energy,Oil & Gas Refining & Marketing,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Pinnacle West Capital,PNW,764622,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+PNC Financial Services,PNC,713676,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+PPG Industries,PPG,79879,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+PPL Corporation,PPL,922224,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Principal Financial Group,PFG,1126328,Financials,Life & Health Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Procter & Gamble,PG,80424,Consumer Staples,Personal Care Products,2024-07-01,2025-06-30,2023-07-01,2024-06-30,Revenues,Annual SEC comparison
+Progressive Corporation,PGR,80661,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Prologis,PLD,1045609,Real Estate,Industrial REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Prudential Financial,PRU,1137774,Financials,Life & Health Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+PTC Inc.,PTC,857005,Information Technology,Application Software,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Public Service Enterprise Group,PEG,788784,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Public Storage,PSA,1393311,Real Estate,Self-Storage REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+PulteGroup,PHM,822416,Consumer Discretionary,Homebuilding,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Qnity Electronics,Q,2058873,Information Technology,Semiconductor Materials & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Qualcomm,QCOM,804328,Information Technology,Semiconductors,2024-09-30,2025-09-28,2023-09-25,2024-09-29,Revenues,Annual SEC comparison
+Quanta Services,PWR,1050915,Industrials,Construction & Engineering,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Quest Diagnostics,DGX,1022079,Health Care,Health Care Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ralph Lauren Corporation,RL,1037038,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2025-03-30,2026-03-28,2024-03-31,2025-03-29,Revenues,Annual SEC comparison
+Raymond James Financial,RJF,720005,Financials,Investment Banking & Brokerage,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenuesNetOfInterestExpense,Annual SEC comparison
+Realty Income,O,726728,Real Estate,Retail REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Reddit,RDDT,1713445,Communication Services,Interactive Media & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Regency Centers,REG,910606,Real Estate,Retail REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Regeneron Pharmaceuticals,REGN,872589,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Republic Services,RSG,1060391,Industrials,Environmental & Facilities Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+ResMed|,RMD,943819,Health Care,Health Care Equipment,2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Revvity,RVTY,31791,Health Care,Health Care Equipment,2024-12-30,2025-12-28,2024-01-01,2024-12-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Robinhood Markets,HOOD,1783879,Financials,Investment Banking & Brokerage,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Rockwell Automation,ROK,1024478,Industrials,Electrical Components & Equipment,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+"Rollins, Inc.",ROL,84839,Industrials,Environmental & Facilities Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Roper Technologies,ROP,882835,Information Technology,Electronic Equipment & Instruments,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ross Stores,ROST,745732,Consumer Discretionary,Apparel Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Royal Caribbean Group,RCL,884887,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+RTX Corporation,RTX,101829,Industrials,Aerospace & Defense,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+S&P Global,SPGI,64040,Financials,Financial Exchanges & Data,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Salesforce,CRM,1108524,Information Technology,Application Software,2025-02-01,2026-01-31,2024-02-01,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+SBA Communications,SBAC,1034054,Real Estate,Telecom Tower REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Schlumberger,SLB,87347,Energy,Oil & Gas Equipment & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Sempra,SRE,1032208,Utilities,Multi-Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+ServiceNow,NOW,1373715,Information Technology,Systems Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Sherwin-Williams,SHW,89800,Materials,Specialty Chemicals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Simon Property Group,SPG,1063761,Real Estate,Retail REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Skyworks Solutions,SWKS,4127,Information Technology,Semiconductors,2024-09-28,2025-10-03,2023-09-30,2024-09-27,Revenues,Annual SEC comparison
+Smurfit Westrock,SW,2005951,Materials,Paper & Plastic Packaging Products & Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Snap-on,SNA,91440,Industrials,Industrial Machinery & Supplies & Components,2024-12-29,2026-01-03,2023-12-31,2024-12-28,Revenues,Annual SEC comparison
+Solventum,SOLV,1964738,Health Care,Health Care Technology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Southern Company,SO,92122,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Southwest Airlines,LUV,92380,Industrials,Passenger Airlines,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Space Exploration Technologies Corp. (SpaceX),SPCX,original_spacex,Other original companies,Original demo profile outside this S&P 500 roster,,,,,,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+Stanley Black & Decker,SWK,93556,Industrials,Industrial Machinery & Supplies & Components,2024-12-29,2026-01-03,2023-12-31,2024-12-28,Revenues,Annual SEC comparison
+Starbucks,SBUX,829224,Consumer Discretionary,Restaurants,2024-09-30,2025-09-28,2023-10-02,2024-09-29,Revenues,Annual SEC comparison
+State Street Corporation,STT,93751,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Steel Dynamics,STLD,1022671,Materials,Steel,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Steris,STE,1757898,Health Care,Health Care Equipment,2025-04-01,2026-03-31,2024-04-01,2025-03-31,Revenues,Annual SEC comparison
+Stryker Corporation,SYK,310764,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Supermicro,SMCI,1375365,Information Technology,"Technology Hardware, Storage & Peripherals",2024-07-01,2025-06-30,2023-07-01,2024-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Synopsys,SNPS,883241,Information Technology,Application Software,2024-11-01,2025-10-31,2023-11-01,2024-10-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Sysco,SYY,96021,Consumer Staples,Food Distributors,2025-06-29,2026-06-27,2024-06-30,2025-06-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+T-Mobile US,TMUS,1283699,Communication Services,Wireless Telecommunication Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+T. Rowe Price,TROW,1113169,Financials,Asset Management & Custody Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Taiwan Semiconductor Manufacturing Company Limited,TSM,original_tsmc,Other original companies,Original demo profile outside this S&P 500 roster,,,,,,"Fiscal Q2 2026 · ended Jun. 30, 2026"
+Take-Two Interactive,TTWO,946581,Communication Services,Interactive Home Entertainment,2025-04-01,2026-03-31,2024-04-01,2025-03-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+"Tapestry, Inc.",TPR,1116132,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2025-06-29,2026-06-27,2024-06-30,2025-06-28,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Targa Resources,TRGP,1389170,Energy,Oil & Gas Storage & Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Target Corporation,TGT,27419,Consumer Staples,Consumer Staples Merchandise Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+TE Connectivity,TEL,1385157,Information Technology,Electronic Manufacturing Services,2024-09-28,2025-09-26,2023-09-30,2024-09-27,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Teledyne Technologies,TDY,1094285,Information Technology,Electronic Equipment & Instruments,2024-12-30,2025-12-28,2024-01-01,2024-12-29,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Teradyne,TER,97210,Information Technology,Semiconductor Materials & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"Tesla, Inc.",TSLA,1318605,Consumer Discretionary,Automobile Manufacturers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Texas Instruments,TXN,97476,Information Technology,Semiconductors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Texas Pacific Land Corporation,TPL,1811074,Energy,Oil & Gas Exploration & Production,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Textron,TXT,217346,Industrials,Aerospace & Defense,2024-12-29,2026-01-03,2023-12-31,2024-12-28,Revenues,Annual SEC comparison
+Thermo Fisher Scientific,TMO,97745,Health Care,Life Sciences Tools & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+TJX Companies,TJX,109198,Consumer Discretionary,Apparel Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+TKO Group Holdings,TKO,1973266,Communication Services,Movies & Entertainment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Tractor Supply,TSCO,916365,Consumer Discretionary,Other Specialty Retail,2024-12-29,2025-12-27,2023-12-31,2024-12-28,Revenues,Annual SEC comparison
+Trane Technologies,TT,1466258,Industrials,Building Products,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+TransDigm Group,TDG,1260221,Industrials,Aerospace & Defense,2024-10-01,2025-09-30,2023-10-01,2024-09-30,Revenues,Annual SEC comparison
+Travelers Companies (The),TRV,86312,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Trimble Inc.,TRMB,864749,Information Technology,Application Software,2025-01-04,2026-01-02,2023-12-30,2025-01-03,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Twilio,TWLO,1447669,Information Technology,Systems Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Tyler Technologies,TYL,860731,Information Technology,Application Software,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Tyson Foods,TSN,100493,Consumer Staples,Packaged Foods & Meats,2024-09-29,2025-09-27,2023-10-01,2024-09-28,Revenues,Annual SEC comparison
+U.S. Bancorp,USB,36104,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Uber,UBER,1543151,Industrials,Passenger Ground Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"UDR, Inc.",UDR,74208,Real Estate,Multi-Family Residential REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Ulta Beauty,ULTA,1403568,Consumer Discretionary,Other Specialty Retail,2025-02-02,2026-01-31,2024-02-04,2025-02-01,Revenues,Annual SEC comparison
+Union Pacific Corporation,UNP,100885,Industrials,Rail Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+United Airlines Holdings,UAL,100517,Industrials,Passenger Airlines,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+United Parcel Service,UPS,1090727,Industrials,Air Freight & Logistics,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+United Rentals,URI,1067701,Industrials,Trading Companies & Distributors,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+UnitedHealth Group,UNH,731766,Health Care,Managed Health Care,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Universal Health Services,UHS,352915,Health Care,Health Care Facilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Valero Energy,VLO,1035002,Energy,Oil & Gas Refining & Marketing,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Veeva Systems,VEEV,1393052,Health Care,Health Care Technology,2025-02-01,2026-01-31,2024-02-01,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Ventas,VTR,740260,Real Estate,Health Care REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Veralto,VLTO,1967680,Industrials,Environmental & Facilities Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Verisign,VRSN,1014473,Information Technology,Internet Services & Infrastructure,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Verisk Analytics,VRSK,1442145,Industrials,Research & Consulting Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Verizon,VZ,732712,Communication Services,Integrated Telecommunication Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Vertex Pharmaceuticals,VRTX,875320,Health Care,Biotechnology,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Vertiv,VRT,1674101,Industrials,Electrical Components & Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Viatris,VTRS,1792044,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Vici Properties,VICI,1705696,Real Estate,Hotel & Resort REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Visa Inc.,V,1403161,Financials,Transaction & Payment Processing Services,2024-10-01,2025-09-30,2023-10-01,2024-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Vistra Corp.,VST,1692819,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Vulcan Materials Company,VMC,1396009,Materials,Construction Materials,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+W. R. Berkley Corporation,WRB,11544,Financials,Property & Casualty Insurance,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+W. W. Grainger,GWW,277135,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Wabtec,WAB,943452,Industrials,Construction Machinery & Heavy Transportation Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Walmart,WMT,104169,Consumer Staples,Consumer Staples Merchandise Retail,2025-02-01,2026-01-31,2024-02-01,2025-01-31,Revenues,Annual SEC comparison
+Walt Disney Company (The),DIS,1744489,Communication Services,Movies & Entertainment,2024-09-29,2025-09-27,2023-10-01,2024-09-28,Revenues,Annual SEC comparison
+Waste Management,WM,823768,Industrials,Environmental & Facilities Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Waters Corporation,WAT,1000697,Health Care,Life Sciences Tools & Services,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+WEC Energy Group,WEC,783325,Utilities,Electric Utilities,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Wells Fargo,WFC,72971,Financials,Diversified Banks,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenuesNetOfInterestExpense,Annual SEC comparison
+Welltower,WELL,766704,Real Estate,Health Care REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+West Pharmaceutical Services,WST,105770,Health Care,Health Care Supplies,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Weyerhaeuser,WY,106535,Real Estate,Timber REITs,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Williams Companies,WMB,107263,Energy,Oil & Gas Storage & Transportation,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"Williams-Sonoma, Inc.",WSM,719955,Consumer Discretionary,Homefurnishing Retail,2025-02-03,2026-02-01,2024-01-29,2025-02-02,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Willis Towers Watson,WTW,1140536,Financials,Insurance Brokers,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+"Workday, Inc.",WDAY,1327811,Information Technology,Application Software,2025-02-01,2026-01-31,2024-02-01,2025-01-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Wynn Resorts,WYNN,1174922,Consumer Discretionary,Casinos & Gaming,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerIncludingAssessedTax,Annual SEC comparison
+Xylem Inc.,XYL,1524472,Industrials,Industrial Machinery & Supplies & Components,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Yum! Brands,YUM,1041061,Consumer Discretionary,Restaurants,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
+Zebra Technologies,ZBRA,877212,Information Technology,Electronic Equipment & Instruments,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Zimmer Biomet,ZBH,1136869,Health Care,Health Care Equipment,2025-01-01,2025-12-31,2024-01-01,2024-12-31,RevenueFromContractWithCustomerExcludingAssessedTax,Annual SEC comparison
+Zoetis,ZTS,1555280,Health Care,Pharmaceuticals,2025-01-01,2025-12-31,2024-01-01,2024-12-31,Revenues,Annual SEC comparison
