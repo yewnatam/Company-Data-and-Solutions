@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "python3 -m unittest discover -s tests -v && node --test tests/web.test.cjs && python3 -m cds build",
+  "outputDirectory": "dist"
+}
