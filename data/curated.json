@@ -1,0 +1,2877 @@
+{
+  "nike": {
+    "aliases": [
+      "nike",
+      "nke",
+      "nike inc",
+      "nike, inc."
+    ],
+    "logo": "N",
+    "logoKey": "nike",
+    "name": "NIKE, Inc.",
+    "ticker": "NKE",
+    "period": "Fiscal Q1 2027 · ended Aug. 31, 2026",
+    "overviewSub": "Latest reported quarter with selected operating and profitability signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$11.21B",
+        "delta": "4% lower YoY",
+        "tone": "neg"
+      },
+      {
+        "label": "Net income",
+        "value": "$712M",
+        "delta": "2% lower YoY",
+        "tone": "neg"
+      },
+      {
+        "label": "Gross margin",
+        "value": "42.8%",
+        "delta": "0.6 pts higher",
+        "tone": "pos"
+      },
+      {
+        "label": "EPS",
+        "value": "$0.48",
+        "delta": "$0.49 prior year",
+        "tone": "neutral"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 11.213,
+        "prior": 11.72,
+        "currentLabel": "$11.213B",
+        "priorLabel": "$11.720B"
+      },
+      {
+        "name": "Net income",
+        "current": 0.712,
+        "prior": 0.727,
+        "currentLabel": "$712M",
+        "priorLabel": "$727M"
+      },
+      {
+        "name": "SG&A",
+        "current": 3.91,
+        "prior": 4.016,
+        "currentLabel": "$3.910B",
+        "priorLabel": "$4.016B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Needs attention",
+        "tone": "neg"
+      },
+      {
+        "label": "Gross margin",
+        "value": "Improving",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating overhead",
+        "value": "Lower",
+        "tone": "pos"
+      },
+      {
+        "label": "Nike Direct",
+        "value": "Weak",
+        "tone": "neg"
+      },
+      {
+        "label": "Wholesale",
+        "value": "More resilient",
+        "tone": "pos"
+      }
+    ],
+    "overviewExplainTitle": "Sales were softer, but cost and margin trends helped.",
+    "overviewExplainText": "Nike generated less revenue than the same quarter last year, but gross margin improved and operating overhead declined. That means the business was under pressure on sales, while some cost and profitability measures moved in a better direction.",
+    "financial": [
+      [
+        "Revenue",
+        "$11.213B",
+        "$11.720B",
+        "-4%"
+      ],
+      [
+        "Gross profit",
+        "$4.798B",
+        "$4.943B",
+        "-3%"
+      ],
+      [
+        "Gross margin",
+        "42.8%",
+        "42.2%",
+        "+0.6 pts"
+      ],
+      [
+        "Net income",
+        "$712M",
+        "$727M",
+        "-2%"
+      ],
+      [
+        "Demand creation",
+        "$1.252B",
+        "$1.188B",
+        "+5%"
+      ],
+      [
+        "Operating overhead",
+        "$2.658B",
+        "$2.828B",
+        "-6%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 11.213,
+        "prior": 11.72,
+        "currentLabel": "$11.213B",
+        "priorLabel": "$11.720B"
+      },
+      {
+        "name": "Gross profit",
+        "current": 4.798,
+        "prior": 4.943,
+        "currentLabel": "$4.798B",
+        "priorLabel": "$4.943B"
+      },
+      {
+        "name": "Net income",
+        "current": 0.712,
+        "prior": 0.727,
+        "currentLabel": "$712M",
+        "priorLabel": "$727M"
+      },
+      {
+        "name": "Demand creation",
+        "current": 1.252,
+        "prior": 1.188,
+        "currentLabel": "$1.252B",
+        "priorLabel": "$1.188B"
+      },
+      {
+        "name": "Operating overhead",
+        "current": 2.658,
+        "prior": 2.828,
+        "currentLabel": "$2.658B",
+        "priorLabel": "$2.828B"
+      }
+    ],
+    "financialExplainTitle": "Profit held up better than revenue.",
+    "financialExplainText": "Revenue declined 4%, while net income declined 2%. Gross margin improved and operating overhead fell 6%. In simple terms, Nike sold less, but better margins and lower overhead helped keep profit from falling as much as sales.",
+    "marketContext": "Selected channel signals",
+    "markets": [
+      {
+        "label": "NIKE Brand wholesale",
+        "value": "$6.8B · down 1%"
+      },
+      {
+        "label": "NIKE Direct",
+        "value": "$4.1B · down 8%"
+      },
+      {
+        "label": "NIKE Brand Digital",
+        "value": "down 13%"
+      },
+      {
+        "label": "NIKE-owned stores",
+        "value": "down 5%"
+      },
+      {
+        "label": "Converse",
+        "value": "$263M · down 28%"
+      },
+      {
+        "label": "Greater China",
+        "value": "area to watch"
+      }
+    ],
+    "marketExplainTitle": "Direct sales were the bigger weakness.",
+    "marketExplainText": "Wholesale revenue was relatively more stable, while Nike Direct declined much faster. Digital was especially weak. That suggests Nike's own direct channels were under more pressure than its wholesale business during the quarter.",
+    "insights": [
+      [
+        "Revenue pressure",
+        "Sales declined year over year, so returning to consistent top-line growth remains important."
+      ],
+      [
+        "Margin improvement",
+        "Gross margin increased to 42.8%, which means Nike kept slightly more gross profit from each dollar of sales."
+      ],
+      [
+        "Cost discipline",
+        "Operating overhead fell 6%, helping offset part of the revenue decline."
+      ],
+      [
+        "Marketing investment",
+        "Demand creation expense increased 5%, showing Nike continued spending to support brand demand."
+      ],
+      [
+        "Channel mix",
+        "Wholesale held up better than Nike Direct, making direct-to-consumer performance an important area to monitor."
+      ],
+      [
+        "Regional watch",
+        "Greater China remained an important weak area to watch in Nike's recovery."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Nike’s biggest issue is rebuilding demand, especially in Direct and Greater China.",
+      "summary": "Revenue is still under pressure, but gross margin improved and operating overhead declined. That means the deeper problem is not simply cost control. The data points more strongly to weaker demand and channel execution, especially in Nike Direct, digital, and Greater China.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Direct-to-consumer is underperforming",
+          "text": "Nike Direct fell 8% while wholesale declined only 1%, and Nike Brand Digital fell 13%.",
+          "items": [
+            "Improve digital conversion and traffic quality",
+            "Track whether promotions are creating real demand",
+            "Watch whether wholesale continues to outperform Direct"
+          ]
+        },
+        {
+          "label": "What could improve",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Greater China needs a focused recovery",
+          "text": "Greater China remains one of the clearest weak areas in the current results and can limit the overall recovery.",
+          "items": [
+            "Review product mix and local demand",
+            "Track sell-through on new launches",
+            "Watch inventory and discounting pressure"
+          ]
+        },
+        {
+          "label": "What is working",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Margins and overhead are helping",
+          "text": "Gross margin improved and operating overhead fell 6%, providing support even while revenue declined.",
+          "items": [
+            "Protect the margin improvement",
+            "Keep cost savings focused on growth areas",
+            "Avoid weakening brand investment too aggressively"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Marketing spend must turn into demand",
+          "text": "Demand creation expense increased 5% while revenue declined 4%, so management needs to show that higher spending improves traffic, conversion, and full-price sales.",
+          "items": [
+            "Compare marketing growth with revenue recovery",
+            "Track repeat-purchase trends",
+            "Watch whether discounting decreases over time"
+          ]
+        }
+      ],
+      "focusTitle": "The priority should be demand recovery, not simply more cost cuts.",
+      "focusText": "Nike already showed some margin and overhead improvement. The next step is proving those gains can be paired with stronger sales. Nike Direct, digital performance, and Greater China are the areas where better execution could have the greatest impact."
+    },
+    "sources": [
+      {
+        "title": "NIKE, Inc. Reports Fiscal 2027 First Quarter Results",
+        "meta": "Official NIKE Investor Relations · Oct. 1, 2026",
+        "type": "Primary source",
+        "url": "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2026/NIKE-Inc--Reports-Fiscal-2027-First-Quarter-Results/default.aspx"
+      },
+      {
+        "title": "NIKE filings on SEC EDGAR",
+        "meta": "U.S. Securities and Exchange Commission · CIK 0000320187",
+        "type": "Regulatory source",
+        "url": "https://www.sec.gov/edgar/browse/?CIK=320187&owner=exclude"
+      }
+    ]
+  },
+  "apple": {
+    "aliases": [
+      "apple",
+      "aapl",
+      "apple inc",
+      "apple inc."
+    ],
+    "logo": "A",
+    "logoKey": "apple",
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "period": "Fiscal Q3 2026 · ended Jun. 27, 2026",
+    "overviewSub": "Latest reported quarter with selected growth and profitability signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$109.4B",
+        "delta": "16% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "50.1%",
+        "delta": "Strong quarter",
+        "tone": "pos"
+      },
+      {
+        "label": "Diluted EPS",
+        "value": "$2.02",
+        "delta": "29% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Major segments",
+        "value": "Broad growth",
+        "delta": "Multiple records",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue growth index",
+        "current": 116,
+        "prior": 100,
+        "currentLabel": "116 index",
+        "priorLabel": "100 index"
+      },
+      {
+        "name": "EPS growth index",
+        "current": 129,
+        "prior": 100,
+        "currentLabel": "129 index",
+        "priorLabel": "100 index"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "EPS growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "iPhone",
+        "value": "Record quarter",
+        "tone": "pos"
+      },
+      {
+        "label": "Services",
+        "value": "Record quarter",
+        "tone": "pos"
+      }
+    ],
+    "overviewExplainTitle": "Growth was broad and profitability remained strong.",
+    "overviewExplainText": "Apple reported 16% year-over-year revenue growth and 29% diluted EPS growth. Because EPS grew faster than revenue, profitability and operating performance improved faster than sales alone would suggest.",
+    "financial": [
+      [
+        "Revenue",
+        "$109.4B",
+        "Prior-year base",
+        "+16%"
+      ],
+      [
+        "Gross margin",
+        "50.1%",
+        "—",
+        "Strong"
+      ],
+      [
+        "Diluted EPS",
+        "$2.02",
+        "Prior-year base",
+        "+29%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue growth",
+        "current": 16,
+        "prior": 0,
+        "currentLabel": "+16%",
+        "priorLabel": "Prior-year base"
+      },
+      {
+        "name": "EPS growth",
+        "current": 29,
+        "prior": 0,
+        "currentLabel": "+29%",
+        "priorLabel": "Prior-year base"
+      },
+      {
+        "name": "Gross margin",
+        "current": 50.1,
+        "prior": 0,
+        "currentLabel": "50.1%",
+        "priorLabel": "Not shown in demo source"
+      }
+    ],
+    "financialExplainTitle": "Earnings grew faster than revenue.",
+    "financialExplainText": "Revenue increased 16%, while diluted EPS increased 29%. In simple terms, Apple did not just sell more—it also converted that growth into stronger earnings per share.",
+    "marketContext": "Major product and geography signals",
+    "markets": [
+      {
+        "label": "iPhone",
+        "value": "June-quarter record"
+      },
+      {
+        "label": "Mac",
+        "value": "June-quarter record"
+      },
+      {
+        "label": "Services",
+        "value": "June-quarter record"
+      },
+      {
+        "label": "Geographic segments",
+        "value": "Double-digit growth across all"
+      }
+    ],
+    "marketExplainTitle": "The quarter was not driven by only one product.",
+    "marketExplainText": "Apple reported strength across iPhone, Mac, Services, and every geographic segment. That makes the growth more balanced than a quarter where one product or one region carries most of the result.",
+    "insights": [
+      [
+        "Broad growth",
+        "Major product categories and geographic segments contributed to the quarter."
+      ],
+      [
+        "Strong profitability",
+        "Gross margin reached 50.1%, indicating a very high level of gross profitability."
+      ],
+      [
+        "EPS acceleration",
+        "Diluted EPS increased faster than revenue, which is a positive efficiency signal."
+      ],
+      [
+        "Product records",
+        "Apple reported June-quarter records for multiple major business areas."
+      ],
+      [
+        "Geographic breadth",
+        "Double-digit growth across every geographic segment reduced dependence on one region."
+      ],
+      [
+        "Overall read",
+        "The quarter showed strong top-line growth with even stronger earnings growth."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Apple’s challenge is sustaining unusually strong growth and profitability, not fixing a major weakness.",
+      "summary": "Revenue grew 16%, diluted EPS grew 29%, gross margin reached 50.1%, and growth was broad across products and geographies. The deeper question is sustainability: can Apple preserve this margin profile and keep growth broad as comparisons become harder?",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Earnings are growing faster than sales",
+          "text": "Diluted EPS increased 29% compared with 16% revenue growth, showing strong earnings conversion.",
+          "items": [
+            "Watch whether EPS keeps outpacing revenue",
+            "Track margin stability",
+            "Compare operating-expense growth with sales growth"
+          ]
+        },
+        {
+          "label": "What to protect",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Maintain broad-based growth",
+          "text": "Strength across iPhone, Mac, Services, and every geographic segment reduces dependence on one growth engine.",
+          "items": [
+            "Maintain product-category balance",
+            "Protect Services momentum",
+            "Watch for any regional slowdown"
+          ]
+        },
+        {
+          "label": "What could improve",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Prove the margin level is durable",
+          "text": "A 50.1% gross margin is very strong, but the next question is whether it holds as mix and costs change.",
+          "items": [
+            "Track product versus Services mix",
+            "Monitor supply-chain costs",
+            "Watch margin around new product cycles"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "High expectations raise the bar",
+          "text": "Strong results create tougher comparisons in future quarters, so even good performance can look weaker against an unusually strong base.",
+          "items": [
+            "Compare against tougher prior periods",
+            "Watch for slowing growth in any segment",
+            "Separate product-cycle strength from durable demand"
+          ]
+        }
+      ],
+      "focusTitle": "The focus should be sustaining quality growth rather than chasing growth at any cost.",
+      "focusText": "Apple’s data does not point to a major operational problem. The key is preserving high margins, keeping growth broad across products and regions, and continuing to convert revenue growth into even faster earnings growth."
+    },
+    "sources": [
+      {
+        "title": "Apple reports third quarter results",
+        "meta": "Apple Newsroom · Jul. 30, 2026",
+        "type": "Primary source",
+        "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/"
+      }
+    ]
+  },
+  "mcdonalds": {
+    "aliases": [
+      "mcdonalds",
+      "mcdonald's",
+      "mcdonald’s",
+      "mcd",
+      "mcdonalds corporation",
+      "mcdonald's corporation",
+      "mcdonald’s corporation"
+    ],
+    "logo": "M",
+    "logoKey": "mcdonalds",
+    "name": "McDonald’s Corporation",
+    "ticker": "MCD",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected sales, earnings, and market-performance signals.",
+    "metrics": [
+      {
+        "label": "Systemwide sales",
+        "value": "$37.0B",
+        "delta": "5% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Comparable sales",
+        "value": "+1.3%",
+        "delta": "Positive across all segments",
+        "tone": "pos"
+      },
+      {
+        "label": "Diluted EPS",
+        "value": "$3.32",
+        "delta": "6% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "+3%",
+        "delta": "Year-over-year growth",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue growth",
+        "current": 104,
+        "prior": 100,
+        "currentLabel": "+4% YoY",
+        "priorLabel": "Prior-year base"
+      },
+      {
+        "name": "Operating income",
+        "current": 103,
+        "prior": 100,
+        "currentLabel": "+3% YoY",
+        "priorLabel": "Prior-year base"
+      },
+      {
+        "name": "Diluted EPS",
+        "current": 106,
+        "prior": 100,
+        "currentLabel": "+6% YoY",
+        "priorLabel": "Prior-year base"
+      }
+    ],
+    "health": [
+      {
+        "label": "Global comparable sales",
+        "value": "Positive",
+        "tone": "pos"
+      },
+      {
+        "label": "Systemwide sales",
+        "value": "Growing",
+        "tone": "pos"
+      },
+      {
+        "label": "U.S. comparable sales",
+        "value": "+0.8%",
+        "tone": "neutral"
+      },
+      {
+        "label": "International operated markets",
+        "value": "+1.5%",
+        "tone": "pos"
+      },
+      {
+        "label": "Loyalty activity",
+        "value": "Growing",
+        "tone": "pos"
+      }
+    ],
+    "overviewExplainTitle": "McDonald’s delivered growth, but the U.S. remained the slower major segment.",
+    "overviewExplainText": "Global comparable sales increased 1.3% and Systemwide sales reached about $37 billion. Revenue, operating income, and diluted EPS all increased, while U.S. comparable sales rose only 0.8%, making U.S. execution an important area to watch.",
+    "financial": [
+      [
+        "Systemwide sales",
+        "$37.0B",
+        "Prior-year base",
+        "+5%"
+      ],
+      [
+        "Consolidated revenues",
+        "Growth",
+        "Prior-year base",
+        "+4%"
+      ],
+      [
+        "Operating income",
+        "Growth",
+        "Prior-year base",
+        "+3%"
+      ],
+      [
+        "Diluted EPS",
+        "$3.32",
+        "Prior-year base",
+        "+6%"
+      ],
+      [
+        "Adjusted diluted EPS",
+        "$3.38",
+        "Prior-year adjusted base",
+        "+6%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue growth",
+        "current": 104,
+        "prior": 100,
+        "currentLabel": "+4% YoY",
+        "priorLabel": "Base 100"
+      },
+      {
+        "name": "Operating income",
+        "current": 103,
+        "prior": 100,
+        "currentLabel": "+3% YoY",
+        "priorLabel": "Base 100"
+      },
+      {
+        "name": "Diluted EPS",
+        "current": 106,
+        "prior": 100,
+        "currentLabel": "+6% YoY",
+        "priorLabel": "Base 100"
+      }
+    ],
+    "financialExplainTitle": "Sales and earnings moved higher together.",
+    "financialExplainText": "Consolidated revenue increased 4%, operating income increased 3%, and diluted EPS increased 6%. That means McDonald’s grew both sales and earnings, although operating-income growth was a little slower than revenue growth.",
+    "marketContext": "Comparable sales by major segment",
+    "markets": [
+      {
+        "label": "United States",
+        "value": "+0.8% comparable sales"
+      },
+      {
+        "label": "International Operated Markets",
+        "value": "+1.5%"
+      },
+      {
+        "label": "International Developmental Licensed Markets",
+        "value": "+1.9%"
+      },
+      {
+        "label": "Systemwide sales",
+        "value": "$37B · up 5%"
+      },
+      {
+        "label": "Loyalty-member sales",
+        "value": "$40B TTM · up over 20%"
+      },
+      {
+        "label": "90-day active loyalty users",
+        "value": "Nearly 220M · up 13%"
+      }
+    ],
+    "marketExplainTitle": "International markets grew faster than the U.S.",
+    "marketExplainText": "Every major segment posted positive comparable sales, but the U.S. increased only 0.8% while the international segments grew faster. Loyalty usage continued to expand, which is a positive customer-engagement signal.",
+    "insights": [
+      [
+        "Positive global growth",
+        "Comparable sales increased across every major segment, showing growth was geographically broad."
+      ],
+      [
+        "U.S. opportunity",
+        "The U.S. grew more slowly than the international segments, making domestic execution a key area to improve."
+      ],
+      [
+        "Systemwide scale",
+        "Systemwide sales reached about $37 billion for the quarter, up 5% year over year."
+      ],
+      [
+        "EPS growth",
+        "Diluted EPS increased 6%, faster than operating income growth."
+      ],
+      [
+        "Loyalty strength",
+        "Trailing-twelve-month sales to loyalty members rose to about $40 billion."
+      ],
+      [
+        "Customer engagement",
+        "McDonald’s reported nearly 220 million 90-day active loyalty users, up 13%."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "McDonald’s is growing, but the biggest opportunity is improving U.S. momentum and using loyalty growth to drive more visits.",
+      "summary": "Comparable sales were positive across all major segments and systemwide sales increased 5%. The weaker point is the U.S., where comparable sales grew only 0.8%. At the same time, loyalty activity is expanding quickly, creating a clear opportunity to use digital engagement to improve visit frequency and domestic sales.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "U.S. growth is the main area to improve",
+          "text": "U.S. comparable sales increased 0.8%, below the international segments.",
+          "items": [
+            "Track traffic versus average-ticket growth",
+            "Compare performance by daypart and menu category",
+            "Measure whether value offers are increasing visits"
+          ]
+        },
+        {
+          "label": "Opportunity",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Loyalty can become a stronger sales engine",
+          "text": "McDonald’s reported nearly 220 million 90-day active loyalty users and about $40 billion in trailing-twelve-month loyalty-member sales.",
+          "items": [
+            "Use loyalty data for personalized offers",
+            "Increase repeat visits among active users",
+            "Measure frequency and spend of loyalty users"
+          ]
+        },
+        {
+          "label": "What could improve",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Operating income should keep pace with revenue",
+          "text": "Revenue increased 4% while operating income increased 3%, so margins are worth watching.",
+          "items": [
+            "Monitor restaurant-level margins",
+            "Watch labor and commodity costs",
+            "Track whether promotions pressure profitability"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Growth should not rely only on price",
+          "text": "Comparable sales can rise from more visits, higher prices, or both. Durable growth usually benefits from healthy traffic as well as ticket growth.",
+          "items": [
+            "Separate traffic from average-ticket growth",
+            "Watch customer price sensitivity",
+            "Measure whether value initiatives improve frequency"
+          ]
+        }
+      ],
+      "focusTitle": "Use digital and loyalty strength to improve U.S. traffic.",
+      "focusText": "McDonald’s already has a large and growing loyalty base. The strongest next step would be turning that engagement into higher visit frequency and stronger U.S. comparable sales while keeping profit growth aligned with revenue growth."
+    },
+    "sources": [
+      {
+        "title": "McDonald’s Reports Second Quarter 2026 Results",
+        "meta": "Official McDonald’s Corporation · Aug. 4, 2026",
+        "type": "Primary source",
+        "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q2-2026-results.html"
+      },
+      {
+        "title": "McDonald’s Investor Relations",
+        "meta": "Official investor information · NYSE: MCD",
+        "type": "Company source",
+        "url": "https://corporate.mcdonalds.com/corpmcd/investors.html"
+      }
+    ]
+  },
+  "amazon": {
+    "aliases": [
+      "amazon",
+      "amzn",
+      "amazon.com",
+      "amazon.com inc",
+      "amazon.com, inc.",
+      "amazon inc"
+    ],
+    "logo": "A",
+    "logoKey": "amazon",
+    "name": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected company-wide and segment-performance signals.",
+    "metrics": [
+      {
+        "label": "Net sales",
+        "value": "$200.6B",
+        "delta": "20% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "$27.5B",
+        "delta": "43% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Net income",
+        "value": "$62.6B",
+        "delta": "Includes investment gain",
+        "tone": "neutral"
+      },
+      {
+        "label": "AWS sales",
+        "value": "$42.2B",
+        "delta": "37% higher YoY",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Net sales",
+        "current": 200.6,
+        "prior": 167.7,
+        "currentLabel": "$200.6B",
+        "priorLabel": "$167.7B"
+      },
+      {
+        "name": "Operating income",
+        "current": 27.5,
+        "prior": 19.2,
+        "currentLabel": "$27.5B",
+        "priorLabel": "$19.2B"
+      },
+      {
+        "name": "Net income",
+        "current": 62.6,
+        "prior": 18.2,
+        "currentLabel": "$62.6B",
+        "priorLabel": "$18.2B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Net sales growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "AWS growth",
+        "value": "Very strong",
+        "tone": "pos"
+      },
+      {
+        "label": "North America sales",
+        "value": "+16%",
+        "tone": "pos"
+      },
+      {
+        "label": "Free cash flow",
+        "value": "Under pressure",
+        "tone": "neg"
+      }
+    ],
+    "overviewExplainTitle": "Amazon grew quickly, with AWS providing a major boost.",
+    "overviewExplainText": "Net sales rose 20% and operating income rose 43%. AWS sales increased 37%, which was the fastest AWS growth rate Amazon reported in 18 quarters. Net income was unusually high because the quarter included a large non-operating gain related mainly to Amazon’s Anthropic investment.",
+    "financial": [
+      [
+        "Net sales",
+        "$200.6B",
+        "$167.7B",
+        "+20%"
+      ],
+      [
+        "Operating income",
+        "$27.5B",
+        "$19.2B",
+        "+43%"
+      ],
+      [
+        "Net income",
+        "$62.6B",
+        "$18.2B",
+        "Large increase"
+      ],
+      [
+        "Diluted EPS",
+        "$5.75",
+        "$1.68",
+        "Large increase"
+      ],
+      [
+        "Operating cash flow (TTM)",
+        "$161.4B",
+        "$121.1B",
+        "+33%"
+      ],
+      [
+        "Free cash flow (TTM)",
+        "-$7.6B",
+        "Prior-year positive",
+        "Declined"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Net sales",
+        "current": 200.6,
+        "prior": 167.7,
+        "currentLabel": "$200.6B",
+        "priorLabel": "$167.7B"
+      },
+      {
+        "name": "Operating income",
+        "current": 27.5,
+        "prior": 19.2,
+        "currentLabel": "$27.5B",
+        "priorLabel": "$19.2B"
+      },
+      {
+        "name": "Net income",
+        "current": 62.6,
+        "prior": 18.2,
+        "currentLabel": "$62.6B",
+        "priorLabel": "$18.2B"
+      }
+    ],
+    "financialExplainTitle": "Operating performance improved, but net income needs context.",
+    "financialExplainText": "Amazon’s core operating income increased 43%, showing strong improvement in the business itself. Net income rose much more sharply because the quarter included $53.4 billion of pre-tax other income, primarily from Amazon’s investment in Anthropic, so net income should not be read as normal operating growth.",
+    "marketContext": "Major operating segments",
+    "markets": [
+      {
+        "label": "North America sales",
+        "value": "$116.2B · up 16%"
+      },
+      {
+        "label": "International sales",
+        "value": "$42.2B · up 15%"
+      },
+      {
+        "label": "AWS sales",
+        "value": "$42.2B · up 37%"
+      },
+      {
+        "label": "North America operating income",
+        "value": "$9.1B"
+      },
+      {
+        "label": "International operating income",
+        "value": "$1.7B"
+      },
+      {
+        "label": "AWS operating income",
+        "value": "$16.6B"
+      }
+    ],
+    "marketExplainTitle": "AWS was the standout growth engine.",
+    "marketExplainText": "Amazon grew across North America, International, and AWS, but AWS expanded much faster than the retail segments. AWS also generated $16.6 billion of operating income, making cloud performance a major driver of Amazon’s profitability.",
+    "insights": [
+      [
+        "Strong top-line growth",
+        "Net sales increased 20% year over year to $200.6 billion."
+      ],
+      [
+        "Operating leverage",
+        "Operating income increased 43%, much faster than sales, which is a strong profitability signal."
+      ],
+      [
+        "AWS acceleration",
+        "AWS sales increased 37%, Amazon’s fastest AWS growth in 18 quarters."
+      ],
+      [
+        "Investment gain effect",
+        "Net income was boosted by a large non-operating gain primarily related to Amazon’s Anthropic investment."
+      ],
+      [
+        "Broad segment growth",
+        "North America and International sales both posted double-digit growth."
+      ],
+      [
+        "Cash-flow watch",
+        "Trailing-twelve-month free cash flow fell to a $7.6 billion outflow as property and equipment spending increased sharply."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Amazon’s operating performance is strong, but cash flow and earnings quality deserve the closest attention.",
+      "summary": "Net sales rose 20%, operating income rose 43%, and AWS sales increased 37%. Those are strong operating results. However, reported net income was boosted by a large non-operating investment gain, while trailing-twelve-month free cash flow fell to an outflow. The deeper analysis should therefore separate core operating strength from investment gains and capital-spending pressure.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Operating income is growing much faster than sales",
+          "text": "Operating income rose 43% while net sales increased 20%, showing strong operating leverage.",
+          "items": [
+            "Track whether margin gains continue",
+            "Compare retail and AWS contribution",
+            "Watch cost discipline as revenue scales"
+          ]
+        },
+        {
+          "label": "Growth engine",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "AWS is becoming even more important",
+          "text": "AWS sales increased 37% and generated $16.6 billion of operating income.",
+          "items": [
+            "Track AWS growth versus competitors",
+            "Watch AI infrastructure demand",
+            "Monitor capital intensity required for expansion"
+          ]
+        },
+        {
+          "label": "What needs context",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Net income overstates normal operating growth",
+          "text": "A large non-operating gain, primarily related to the Anthropic investment, boosted reported net income.",
+          "items": [
+            "Focus on operating income for core performance",
+            "Separate investment gains from repeatable earnings",
+            "Use adjusted comparisons when reviewing earnings quality"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Free cash flow is under pressure",
+          "text": "Trailing-twelve-month free cash flow fell to a $7.6 billion outflow as property and equipment spending increased.",
+          "items": [
+            "Track capital expenditures closely",
+            "Measure returns from AI and data-center investment",
+            "Watch when free cash flow begins improving again"
+          ]
+        }
+      ],
+      "focusTitle": "Balance AWS and AI investment with stronger free cash flow.",
+      "focusText": "Amazon’s underlying operating trends are strong, especially in AWS. The key question is whether the large investment program eventually produces enough additional cash flow to justify the capital spending. Core operating income and free cash flow are more useful indicators here than the unusually high reported net income."
+    },
+    "sources": [
+      {
+        "title": "Amazon.com Announces Second Quarter 2026 Results",
+        "meta": "Official Amazon Investor Relations · Jul. 30, 2026",
+        "type": "Primary source",
+        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx"
+      },
+      {
+        "title": "Amazon SEC Filings",
+        "meta": "Official Amazon Investor Relations filing archive",
+        "type": "Regulatory source",
+        "url": "https://ir.aboutamazon.com/sec-filings/default.aspx"
+      }
+    ]
+  },
+  "nvidia": {
+    "aliases": [
+      "nvidia",
+      "nvda",
+      "nvidia corporation"
+    ],
+    "logo": "N",
+    "name": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "period": "Fiscal Q2 2027 · ended Jul. 26, 2026",
+    "overviewSub": "Latest reported quarter with selected AI infrastructure, profitability, and concentration signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$96.2B",
+        "delta": "106% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "$63.7B",
+        "delta": "124% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Net income",
+        "value": "$59.7B",
+        "delta": "126% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "75.0%",
+        "delta": "2.6 pts higher",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 96.221,
+        "prior": 46.743,
+        "currentLabel": "$96.221B",
+        "priorLabel": "$46.743B"
+      },
+      {
+        "name": "Operating income",
+        "current": 63.734,
+        "prior": 28.44,
+        "currentLabel": "$63.734B",
+        "priorLabel": "$28.440B"
+      },
+      {
+        "name": "Net income",
+        "current": 59.688,
+        "prior": 26.422,
+        "currentLabel": "$59.688B",
+        "priorLabel": "$26.422B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Exceptional",
+        "tone": "pos"
+      },
+      {
+        "label": "Data Center growth",
+        "value": "+117%",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "75.0%",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating expense growth",
+        "value": "+55%",
+        "tone": "neutral"
+      },
+      {
+        "label": "China exposure",
+        "value": "Constrained",
+        "tone": "neg"
+      }
+    ],
+    "overviewExplainTitle": "AI infrastructure demand is driving extraordinary growth.",
+    "overviewExplainText": "NVIDIA more than doubled revenue year over year, while operating income and net income grew even faster. Data Center revenue reached $89.0 billion, making AI infrastructure the clear engine of the business. The main analytical issue is concentration: the company is increasingly dependent on Data Center demand and remains exposed to China-related restrictions.",
+    "financial": [
+      [
+        "Revenue",
+        "$96.221B",
+        "$46.743B",
+        "+106%"
+      ],
+      [
+        "Operating income",
+        "$63.734B",
+        "$28.440B",
+        "+124%"
+      ],
+      [
+        "Net income",
+        "$59.688B",
+        "$26.422B",
+        "+126%"
+      ],
+      [
+        "Gross margin",
+        "75.0%",
+        "72.4%",
+        "+2.6 pts"
+      ],
+      [
+        "Operating expenses",
+        "$8.408B",
+        "$5.413B",
+        "+55%"
+      ],
+      [
+        "Diluted EPS",
+        "$2.46",
+        "$1.08",
+        "+128%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 96.221,
+        "prior": 46.743,
+        "currentLabel": "$96.221B",
+        "priorLabel": "$46.743B"
+      },
+      {
+        "name": "Operating income",
+        "current": 63.734,
+        "prior": 28.44,
+        "currentLabel": "$63.734B",
+        "priorLabel": "$28.440B"
+      },
+      {
+        "name": "Net income",
+        "current": 59.688,
+        "prior": 26.422,
+        "currentLabel": "$59.688B",
+        "priorLabel": "$26.422B"
+      },
+      {
+        "name": "Operating expenses",
+        "current": 8.408,
+        "prior": 5.413,
+        "currentLabel": "$8.408B",
+        "priorLabel": "$5.413B"
+      }
+    ],
+    "financialExplainTitle": "Profit is scaling faster than revenue.",
+    "financialExplainText": "Revenue increased 106%, while operating income increased 124% and net income increased 126%. That means NVIDIA is currently converting its rapid sales growth into even faster profit growth. Operating expenses also increased 55%, but much more slowly than revenue.",
+    "marketContext": "AI infrastructure and platform signals",
+    "markets": [
+      {
+        "label": "Data Center revenue",
+        "value": "$89.0B · up 117%"
+      },
+      {
+        "label": "Data Center share of total revenue",
+        "value": "About 92%"
+      },
+      {
+        "label": "Edge Computing revenue",
+        "value": "$7.2B · up 27%"
+      },
+      {
+        "label": "Q3 FY27 revenue outlook",
+        "value": "$108B ±2%"
+      },
+      {
+        "label": "China Data Center compute in Q3 outlook",
+        "value": "None assumed"
+      },
+      {
+        "label": "Data Center Hopper shipments to China",
+        "value": "Less than 1% of Data Center revenue"
+      }
+    ],
+    "marketExplainTitle": "NVIDIA is increasingly concentrated in AI Data Center demand.",
+    "marketExplainText": "Data Center produced roughly nine out of every ten dollars of NVIDIA revenue this quarter. That concentration is a strength while AI infrastructure demand is accelerating, but it also means future performance is highly tied to hyperscaler, AI-lab, and enterprise infrastructure spending.",
+    "insights": [
+      [
+        "AI demand",
+        "Data Center revenue increased 117%, showing extremely strong demand for accelerated-computing infrastructure."
+      ],
+      [
+        "Operating leverage",
+        "Operating income grew faster than revenue, which is a strong profitability signal."
+      ],
+      [
+        "Margin strength",
+        "GAAP gross margin reached 75.0%, up 2.6 percentage points year over year."
+      ],
+      [
+        "Expense growth",
+        "Operating expenses increased 55%, but that growth remains well below the revenue growth rate."
+      ],
+      [
+        "Concentration",
+        "Data Center represents the overwhelming majority of revenue, increasing dependence on AI infrastructure spending."
+      ],
+      [
+        "China risk",
+        "Management is not assuming Data Center compute revenue from China in its next-quarter outlook."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "NVIDIA’s biggest strength and its biggest risk are the same thing: massive dependence on the AI infrastructure buildout.",
+      "summary": "The operating performance is unusually strong. Revenue more than doubled and profit grew even faster, which shows powerful operating leverage. But Data Center now represents roughly 92% of revenue. That means the company’s results are closely tied to continued AI capital spending by hyperscalers, frontier labs, enterprises, and governments. The main questions are not whether current demand is strong — it clearly is — but how durable that demand is and how much geographic or customer concentration NVIDIA can tolerate.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Profit is scaling faster than revenue",
+          "text": "Operating income increased 124% versus 106% revenue growth. That is a sign that the business is benefiting from exceptional operating leverage at its current scale.",
+          "items": [
+            "Track whether operating margin remains elevated",
+            "Watch gross margin as new platforms ramp",
+            "Compare expense growth with revenue growth"
+          ]
+        },
+        {
+          "label": "Main dependency",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Data Center concentration is extremely high",
+          "text": "Data Center revenue reached $89.0 billion out of $96.2 billion total revenue. That concentration makes AI infrastructure spending the central driver of the entire company.",
+          "items": [
+            "Monitor hyperscaler capital-spending plans",
+            "Track diversification outside Data Center",
+            "Watch customer concentration and order timing"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "China remains a strategic constraint",
+          "text": "NVIDIA’s next-quarter outlook assumes no Data Center compute revenue from China, while current Hopper shipments to China were less than 1% of Data Center revenue.",
+          "items": [
+            "Track export-control changes",
+            "Watch alternative products designed for restricted markets",
+            "Measure whether non-China growth offsets lost opportunity"
+          ]
+        },
+        {
+          "label": "What to focus on",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Sustain growth through the next architecture cycle",
+          "text": "The company is already ramping Vera Rubin. The important question is whether the next platform cycle can sustain demand after the extraordinary Blackwell-driven growth period.",
+          "items": [
+            "Track Rubin production and adoption",
+            "Watch supply availability and customer deployment speed",
+            "Compare next-generation demand with Blackwell growth"
+          ]
+        }
+      ],
+      "focusTitle": "Protect the AI growth engine while reducing concentration risk.",
+      "focusText": "NVIDIA does not currently have a demand problem. The focus should be on maintaining execution through the Rubin transition, preserving margins, and broadening the business enough that future results are not determined almost entirely by one market category."
+    },
+    "sources": [
+      {
+        "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+        "meta": "Official NVIDIA Investor Relations · Aug. 26, 2026",
+        "type": "Primary source",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+      },
+      {
+        "title": "NVIDIA Investor Relations",
+        "meta": "Official financial reports and filings · NASDAQ: NVDA",
+        "type": "Company source",
+        "url": "https://investor.nvidia.com/"
+      }
+    ]
+  },
+  "alphabet": {
+    "aliases": [
+      "alphabet",
+      "alphabet inc",
+      "alphabet inc.",
+      "google",
+      "goog",
+      "googl"
+    ],
+    "logo": "G",
+    "name": "Alphabet Inc. (Google)",
+    "ticker": "GOOGL / GOOG",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected Search, Cloud, profitability, and AI-investment signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$119.8B",
+        "delta": "24% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "$40.8B",
+        "delta": "30% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating margin",
+        "value": "34%",
+        "delta": "2 pts higher",
+        "tone": "pos"
+      },
+      {
+        "label": "Google Cloud",
+        "value": "$24.8B",
+        "delta": "82% higher YoY",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 119.796,
+        "prior": 96.428,
+        "currentLabel": "$119.796B",
+        "priorLabel": "$96.428B"
+      },
+      {
+        "name": "Operating income",
+        "current": 40.77,
+        "prior": 31.271,
+        "currentLabel": "$40.770B",
+        "priorLabel": "$31.271B"
+      },
+      {
+        "name": "Net income",
+        "current": 112.107,
+        "prior": 28.196,
+        "currentLabel": "$112.107B",
+        "priorLabel": "$28.196B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Google Cloud growth",
+        "value": "+82%",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating margin",
+        "value": "34%",
+        "tone": "pos"
+      },
+      {
+        "label": "Capital spending",
+        "value": "Very high",
+        "tone": "neutral"
+      },
+      {
+        "label": "Reported net income quality",
+        "value": "Needs context",
+        "tone": "neutral"
+      }
+    ],
+    "overviewExplainTitle": "The core business is strong, but reported net income is heavily affected by investment gains.",
+    "overviewExplainText": "Alphabet revenue increased 24% and operating income increased 30%, led by very strong Google Cloud growth. Reported net income jumped much more sharply because the quarter included about $98 billion of net other income, primarily unrealized gains on equity securities. For the underlying business, revenue, operating income, Cloud growth, and cash investment are more useful signals than the headline net-income increase.",
+    "financial": [
+      [
+        "Revenue",
+        "$119.796B",
+        "$96.428B",
+        "+24%"
+      ],
+      [
+        "Operating income",
+        "$40.770B",
+        "$31.271B",
+        "+30%"
+      ],
+      [
+        "Operating margin",
+        "34%",
+        "32%",
+        "+2 pts"
+      ],
+      [
+        "Net income",
+        "$112.107B",
+        "$28.196B",
+        "+298%"
+      ],
+      [
+        "Diluted EPS",
+        "$9.11",
+        "$2.31",
+        "+294%"
+      ],
+      [
+        "Other income, net",
+        "$97.983B",
+        "$2.662B",
+        "Investment-gain driven"
+      ],
+      [
+        "Capital expenditures",
+        "$44.9B",
+        "—",
+        "High AI infrastructure spend"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 119.796,
+        "prior": 96.428,
+        "currentLabel": "$119.796B",
+        "priorLabel": "$96.428B"
+      },
+      {
+        "name": "Operating income",
+        "current": 40.77,
+        "prior": 31.271,
+        "currentLabel": "$40.770B",
+        "priorLabel": "$31.271B"
+      },
+      {
+        "name": "Net income",
+        "current": 112.107,
+        "prior": 28.196,
+        "currentLabel": "$112.107B",
+        "priorLabel": "$28.196B"
+      }
+    ],
+    "financialExplainTitle": "Operating growth is strong; headline net income should be adjusted mentally for investment gains.",
+    "financialExplainText": "Operating income increased 30% on 24% revenue growth, which is strong. Net income increased 298%, but the majority of that jump came from unrealized equity gains rather than normal business operations. That makes operating income a cleaner measure of the quarter’s underlying performance.",
+    "marketContext": "Google business segments and revenue engines",
+    "markets": [
+      {
+        "label": "Google Services",
+        "value": "$94.5B · up 15%"
+      },
+      {
+        "label": "Google Search & other",
+        "value": "$63.3B · up 17%"
+      },
+      {
+        "label": "YouTube ads",
+        "value": "$11.1B · up 13%"
+      },
+      {
+        "label": "Subscriptions, platforms & devices",
+        "value": "$12.9B · up 15%"
+      },
+      {
+        "label": "Google Cloud",
+        "value": "$24.8B · up 82%"
+      },
+      {
+        "label": "Other Bets",
+        "value": "$382M"
+      }
+    ],
+    "marketExplainTitle": "Cloud is becoming a much more important growth and profit contributor.",
+    "marketExplainText": "Google Services remains the largest business, but Cloud is growing dramatically faster. Cloud revenue increased 82% and its operating income rose sharply, showing that AI infrastructure and enterprise AI are becoming more important to Alphabet’s growth mix.",
+    "insights": [
+      [
+        "Broad growth",
+        "Alphabet posted its 12th consecutive quarter of double-digit revenue growth."
+      ],
+      [
+        "Cloud acceleration",
+        "Google Cloud revenue increased 82%, making it the standout growth engine."
+      ],
+      [
+        "Search resilience",
+        "Google Search & other revenue increased 17%, showing the core advertising business remained strong."
+      ],
+      [
+        "Margin expansion",
+        "Operating margin increased to 34%, even while Alphabet continued heavy AI infrastructure investment."
+      ],
+      [
+        "Earnings quality",
+        "Reported net income was heavily boosted by unrealized investment gains and should not be read as normal operating profit growth."
+      ],
+      [
+        "Capital intensity",
+        "Capital expenditures reached $44.9 billion in the quarter, highlighting the cost of scaling AI infrastructure."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Alphabet’s operating business is strong, but the deeper story is the tradeoff between explosive Cloud growth and extremely heavy AI investment.",
+      "summary": "The core operating results are impressive: revenue grew 24%, operating income grew 30%, and Cloud revenue accelerated 82%. At the same time, Alphabet is investing heavily in compute infrastructure. The reported $112.1 billion net income figure is not a useful standalone measure of normal profitability because it includes massive unrealized equity gains. The more important long-term question is whether the company can turn its rising AI infrastructure spending into durable Cloud, Search, subscription, and enterprise revenue.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Google Cloud is accelerating rapidly",
+          "text": "Cloud revenue increased 82% and operating profit expanded sharply. That gives Alphabet a second major growth engine beyond advertising.",
+          "items": [
+            "Track Cloud revenue and backlog growth",
+            "Watch Cloud operating margin",
+            "Measure enterprise AI adoption and customer expansion"
+          ]
+        },
+        {
+          "label": "What needs context",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Net income is distorted by unrealized investment gains",
+          "text": "About $98 billion of net other income was recognized in the quarter, primarily from equity-security gains. That makes the headline net-income growth far larger than the operating-business growth.",
+          "items": [
+            "Prioritize operating income over headline net income",
+            "Separate recurring earnings from investment marks",
+            "Compare normalized earnings across quarters"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "AI infrastructure is becoming extremely capital intensive",
+          "text": "Capital expenditures reached $44.9 billion in one quarter. Heavy investment may be necessary to meet demand, but it puts pressure on free cash flow and raises the hurdle for future returns.",
+          "items": [
+            "Track CapEx versus Cloud revenue growth",
+            "Measure free-cash-flow recovery",
+            "Watch data-center utilization and returns on new capacity"
+          ]
+        },
+        {
+          "label": "What to protect",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Search must stay strong while AI changes the product",
+          "text": "Search revenue still grew 17%, showing that AI features have not broken the core monetization engine. Maintaining that balance is essential.",
+          "items": [
+            "Track query and commercial-search growth",
+            "Watch monetization of AI search experiences",
+            "Monitor advertising yield as user behavior changes"
+          ]
+        }
+      ],
+      "focusTitle": "Convert AI infrastructure spending into durable recurring revenue without weakening cash generation.",
+      "focusText": "Alphabet’s core businesses are performing well. The main focus should be proving that the unusually large AI infrastructure investment produces enough Cloud, Search, and subscription growth to justify the capital intensity, while evaluating performance with operating metrics rather than investment-driven net-income swings."
+    },
+    "sources": [
+      {
+        "title": "Alphabet Announces Second Quarter 2026 Results",
+        "meta": "Official SEC-filed Alphabet earnings release · Jul. 22, 2026",
+        "type": "Primary source",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+      },
+      {
+        "title": "Alphabet Q2 2026 Form 10-Q",
+        "meta": "U.S. Securities and Exchange Commission · Alphabet Inc.",
+        "type": "Regulatory source",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+      }
+    ]
+  },
+  "microsoft": {
+    "aliases": [
+      "microsoft",
+      "msft",
+      "microsoft corporation",
+      "microsoft corp"
+    ],
+    "logo": "M",
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "period": "Fiscal Q4 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected Cloud, AI, profitability, and segment signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$90.0B",
+        "delta": "18% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "$40.6B",
+        "delta": "18% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Net income",
+        "value": "$35.8B",
+        "delta": "31% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Microsoft Cloud",
+        "value": "$59.3B",
+        "delta": "27% higher YoY",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 90.007,
+        "prior": 76.441,
+        "currentLabel": "$90.007B",
+        "priorLabel": "$76.441B"
+      },
+      {
+        "name": "Operating income",
+        "current": 40.603,
+        "prior": 34.323,
+        "currentLabel": "$40.603B",
+        "priorLabel": "$34.323B"
+      },
+      {
+        "name": "Net income",
+        "current": 35.766,
+        "prior": 27.233,
+        "currentLabel": "$35.766B",
+        "priorLabel": "$27.233B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Azure growth",
+        "value": "+43%",
+        "tone": "pos"
+      },
+      {
+        "label": "Cloud revenue",
+        "value": "+27%",
+        "tone": "pos"
+      },
+      {
+        "label": "Commercial backlog",
+        "value": "$678B",
+        "tone": "pos"
+      },
+      {
+        "label": "More Personal Computing",
+        "value": "Down 4%",
+        "tone": "neg"
+      }
+    ],
+    "overviewExplainTitle": "Cloud and AI are driving growth, while the consumer/PC segment is the main weak spot.",
+    "overviewExplainText": "Microsoft grew revenue and operating income 18%, while net income rose 31%. Microsoft Cloud revenue reached $59.3 billion and Azure grew 43%. The weakness was More Personal Computing, where revenue declined 4%, including declines in Windows OEM/Devices and Xbox content and services.",
+    "financial": [
+      [
+        "Revenue",
+        "$90.007B",
+        "$76.441B",
+        "+18%"
+      ],
+      [
+        "Operating income",
+        "$40.603B",
+        "$34.323B",
+        "+18%"
+      ],
+      [
+        "Net income",
+        "$35.766B",
+        "$27.233B",
+        "+31%"
+      ],
+      [
+        "Diluted EPS",
+        "$4.81",
+        "$3.65",
+        "+32%"
+      ],
+      [
+        "Microsoft Cloud revenue",
+        "$59.3B",
+        "Prior-year base",
+        "+27%"
+      ],
+      [
+        "Commercial RPO",
+        "$678B",
+        "Prior-year base",
+        "+84%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 90.007,
+        "prior": 76.441,
+        "currentLabel": "$90.007B",
+        "priorLabel": "$76.441B"
+      },
+      {
+        "name": "Operating income",
+        "current": 40.603,
+        "prior": 34.323,
+        "currentLabel": "$40.603B",
+        "priorLabel": "$34.323B"
+      },
+      {
+        "name": "Net income",
+        "current": 35.766,
+        "prior": 27.233,
+        "currentLabel": "$35.766B",
+        "priorLabel": "$27.233B"
+      }
+    ],
+    "financialExplainTitle": "Earnings grew faster than sales, with Cloud supplying the strongest momentum.",
+    "financialExplainText": "Revenue and operating income both increased 18%, while net income increased 31%. Microsoft Cloud revenue rose 27%, and Azure grew 43%. The quarter shows a business where AI and Cloud are driving growth faster than the company-wide average.",
+    "marketContext": "Major Microsoft segments",
+    "markets": [
+      {
+        "label": "Intelligent Cloud",
+        "value": "$39.3B · up 32%"
+      },
+      {
+        "label": "Productivity & Business Processes",
+        "value": "$37.8B · up 14%"
+      },
+      {
+        "label": "More Personal Computing",
+        "value": "$12.9B · down 4%"
+      },
+      {
+        "label": "Azure and other cloud services",
+        "value": "up 43%"
+      },
+      {
+        "label": "LinkedIn revenue",
+        "value": "up 12%"
+      },
+      {
+        "label": "Microsoft Cloud",
+        "value": "$59.3B · up 27%"
+      }
+    ],
+    "marketExplainTitle": "The portfolio is increasingly tilted toward Cloud and enterprise AI.",
+    "marketExplainText": "Intelligent Cloud grew 32% and Azure grew 43%, while More Personal Computing declined 4%. That means Microsoft’s fastest growth is coming from enterprise Cloud and AI rather than traditional PC and gaming-related businesses.",
+    "insights": [
+      [
+        "Cloud leadership",
+        "Microsoft Cloud revenue reached $59.3 billion, up 27% year over year."
+      ],
+      [
+        "Azure momentum",
+        "Azure and other cloud-services revenue increased 43%."
+      ],
+      [
+        "Backlog visibility",
+        "Commercial remaining performance obligation reached $678 billion, giving Microsoft substantial contracted future revenue."
+      ],
+      [
+        "Profit growth",
+        "Net income increased 31%, faster than total revenue growth."
+      ],
+      [
+        "Consumer weakness",
+        "More Personal Computing revenue declined 4%, including weakness in Windows OEM/Devices and Xbox content and services."
+      ],
+      [
+        "Investment context",
+        "GAAP net income included a modest positive impact from Microsoft’s OpenAI investment this quarter."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Microsoft’s growth engine is clearly Cloud and AI; the main question is how efficiently it can convert a huge backlog and infrastructure buildout into profit.",
+      "summary": "The quarter shows strong, broad enterprise momentum. Azure grew 43%, Microsoft Cloud revenue grew 27%, and commercial remaining performance obligation reached $678 billion. That backlog provides unusually strong visibility into future contracted revenue. The weaker area is More Personal Computing, which declined. The deeper issue is capital efficiency: Microsoft has enormous AI demand, but it must continue translating data-center investment into sustainable margins and cash generation.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Azure is growing much faster than the company overall",
+          "text": "Azure and other cloud services increased 43%, compared with 18% total revenue growth.",
+          "items": [
+            "Track Azure growth as comparisons get harder",
+            "Watch AI-service contribution to Azure",
+            "Monitor cloud gross-margin trends"
+          ]
+        },
+        {
+          "label": "Strategic advantage",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "The commercial backlog is enormous",
+          "text": "Commercial remaining performance obligation reached $678 billion, up 84%. That gives Microsoft substantial visibility into future enterprise revenue.",
+          "items": [
+            "Track conversion of backlog into revenue",
+            "Monitor contract duration and customer concentration",
+            "Compare bookings growth with capacity additions"
+          ]
+        },
+        {
+          "label": "What could improve",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Consumer and PC businesses are lagging",
+          "text": "More Personal Computing revenue declined 4%, with weakness in Windows OEM/Devices and Xbox content and services.",
+          "items": [
+            "Watch Windows device demand",
+            "Track gaming engagement and monetization",
+            "Measure whether AI PCs improve the segment"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "AI infrastructure must earn an attractive return",
+          "text": "Strong demand requires continued data-center investment. The long-term test is whether that infrastructure produces durable revenue and margin expansion rather than simply higher capital intensity.",
+          "items": [
+            "Track capital spending against Cloud growth",
+            "Monitor depreciation pressure",
+            "Watch free cash flow and return on invested capital"
+          ]
+        }
+      ],
+      "focusTitle": "Turn the Cloud backlog into high-quality revenue while keeping AI infrastructure economically efficient.",
+      "focusText": "Microsoft already has demand and contract visibility. The focus should be execution: deploy capacity fast enough to serve Azure and AI demand, protect margins as depreciation rises, and prevent slower consumer segments from becoming a larger drag."
+    },
+    "sources": [
+      {
+        "title": "Microsoft FY2026 Fourth Quarter Earnings Release",
+        "meta": "Official Microsoft Investor Relations · Jul. 29, 2026",
+        "type": "Primary source",
+        "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+      },
+      {
+        "title": "Microsoft FY2026 Q4 Investor Metrics",
+        "meta": "Official Microsoft Investor Relations · Cloud and product metrics",
+        "type": "Company source",
+        "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2026-Q4/metrics"
+      }
+    ]
+  },
+  "tsmc": {
+    "aliases": [
+      "tsmc",
+      "tsm",
+      "taiwan semiconductor",
+      "taiwan semiconductor manufacturing",
+      "taiwan semiconductor manufacturing company",
+      "taiwan semiconductor manufacturing company limited"
+    ],
+    "logo": "T",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "ticker": "TSM",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected leading-edge process, profitability, platform, and capital-spending signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$40.20B",
+        "delta": "33.7% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "67.7%",
+        "delta": "9.1 pts higher",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating margin",
+        "value": "60.3%",
+        "delta": "10.7 pts higher",
+        "tone": "pos"
+      },
+      {
+        "label": "EPS",
+        "value": "NT$27.25",
+        "delta": "77.4% higher YoY",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Net revenue",
+        "current": 1270.38,
+        "prior": 933.79,
+        "currentLabel": "NT$1,270.38B",
+        "priorLabel": "NT$933.79B"
+      },
+      {
+        "name": "Operating income",
+        "current": 766.6,
+        "prior": 463.42,
+        "currentLabel": "NT$766.60B",
+        "priorLabel": "NT$463.42B"
+      },
+      {
+        "name": "Net income",
+        "current": 706.56,
+        "prior": 398.27,
+        "currentLabel": "NT$706.56B",
+        "priorLabel": "NT$398.27B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Gross margin",
+        "value": "67.7%",
+        "tone": "pos"
+      },
+      {
+        "label": "Advanced-node mix",
+        "value": "77% of wafer revenue",
+        "tone": "pos"
+      },
+      {
+        "label": "HPC exposure",
+        "value": "66% of revenue",
+        "tone": "neutral"
+      },
+      {
+        "label": "Free cash flow",
+        "value": "Lower sequentially",
+        "tone": "neutral"
+      }
+    ],
+    "overviewExplainTitle": "Leading-edge and high-performance-computing demand are driving both growth and margin expansion.",
+    "overviewExplainText": "TSMC revenue increased strongly, while gross and operating margins expanded by large amounts. Advanced technologies at 7nm and below produced 77% of wafer revenue, and high-performance computing represented 66% of total revenue. The business is benefiting from AI and leading-edge demand, but that also creates increasing concentration in advanced-node and HPC spending.",
+    "financial": [
+      [
+        "Net revenue",
+        "NT$1,270.38B",
+        "NT$933.79B",
+        "+36.0%"
+      ],
+      [
+        "Gross profit",
+        "NT$860.31B",
+        "NT$547.37B",
+        "+57.2%"
+      ],
+      [
+        "Operating income",
+        "NT$766.60B",
+        "NT$463.42B",
+        "+65.4%"
+      ],
+      [
+        "Net income",
+        "NT$706.56B",
+        "NT$398.27B",
+        "+77.4%"
+      ],
+      [
+        "Gross margin",
+        "67.7%",
+        "58.6%",
+        "+9.1 pts"
+      ],
+      [
+        "Operating margin",
+        "60.3%",
+        "49.6%",
+        "+10.7 pts"
+      ],
+      [
+        "EPS",
+        "NT$27.25",
+        "NT$15.36",
+        "+77.4%"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Net revenue",
+        "current": 1270.38,
+        "prior": 933.79,
+        "currentLabel": "NT$1,270.38B",
+        "priorLabel": "NT$933.79B"
+      },
+      {
+        "name": "Gross profit",
+        "current": 860.31,
+        "prior": 547.37,
+        "currentLabel": "NT$860.31B",
+        "priorLabel": "NT$547.37B"
+      },
+      {
+        "name": "Operating income",
+        "current": 766.6,
+        "prior": 463.42,
+        "currentLabel": "NT$766.60B",
+        "priorLabel": "NT$463.42B"
+      },
+      {
+        "name": "Net income",
+        "current": 706.56,
+        "prior": 398.27,
+        "currentLabel": "NT$706.56B",
+        "priorLabel": "NT$398.27B"
+      }
+    ],
+    "financialExplainTitle": "Profit grew much faster than revenue.",
+    "financialExplainText": "Net revenue increased 36%, while operating income increased 65% and net income increased 77%. Gross margin rose from 58.6% to 67.7%. That means TSMC is not only selling more — it is also earning much more profit from each dollar of revenue.",
+    "marketContext": "Platform and technology mix",
+    "markets": [
+      {
+        "label": "High Performance Computing",
+        "value": "66% of revenue · up 20% QoQ"
+      },
+      {
+        "label": "Smartphone",
+        "value": "22% of revenue · down 4% QoQ"
+      },
+      {
+        "label": "Advanced nodes (7nm and below)",
+        "value": "77% of wafer revenue"
+      },
+      {
+        "label": "3nm",
+        "value": "30% of wafer revenue"
+      },
+      {
+        "label": "5nm",
+        "value": "33% of wafer revenue"
+      },
+      {
+        "label": "North America customers",
+        "value": "78% of revenue"
+      }
+    ],
+    "marketExplainTitle": "HPC and advanced nodes now dominate the revenue mix.",
+    "marketExplainText": "High Performance Computing represented two-thirds of revenue and grew 20% sequentially, while smartphones declined 4% sequentially. Advanced process technologies accounted for 77% of wafer revenue, showing how strongly TSMC is tied to leading-edge AI and compute demand.",
+    "insights": [
+      [
+        "Margin expansion",
+        "Gross margin increased 9.1 percentage points year over year to 67.7%."
+      ],
+      [
+        "HPC concentration",
+        "High Performance Computing represented 66% of revenue."
+      ],
+      [
+        "Advanced-node leadership",
+        "7nm and below accounted for 77% of wafer revenue, including the first 3% contribution from 2nm."
+      ],
+      [
+        "Profit acceleration",
+        "Net income increased 77.4%, much faster than the 36% increase in NT-dollar revenue."
+      ],
+      [
+        "Capital intensity",
+        "Capital expenditures were $15.7 billion in the quarter."
+      ],
+      [
+        "Cash-flow watch",
+        "Free cash flow declined sequentially because capital spending increased faster than operating cash flow."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "TSMC is benefiting enormously from AI and leading-edge demand, but its growth increasingly depends on high-end compute customers and very heavy capital investment.",
+      "summary": "The quarter shows exceptional operating leverage: revenue grew 36% in NT dollars, operating income 65%, and net income 77%. HPC now represents 66% of revenue, while advanced nodes represent 77% of wafer revenue. That mix is attractive because it supports strong pricing and margin, but it also concentrates the business around leading-edge compute demand and requires enormous continuing investment in fabs and next-generation processes.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Margin expansion is exceptionally strong",
+          "text": "Gross margin rose to 67.7% and operating margin to 60.3%. Profit is growing much faster than revenue.",
+          "items": [
+            "Track margin as overseas fabs ramp",
+            "Watch capacity utilization",
+            "Monitor pricing on leading-edge nodes"
+          ]
+        },
+        {
+          "label": "Growth engine",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "HPC now dominates the platform mix",
+          "text": "High Performance Computing represented 66% of revenue and increased 20% sequentially.",
+          "items": [
+            "Track AI accelerator and server demand",
+            "Watch customer concentration in advanced compute",
+            "Compare HPC growth with smartphone recovery"
+          ]
+        },
+        {
+          "label": "Technology focus",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Advanced nodes are the core competitive advantage",
+          "text": "7nm and below accounted for 77% of wafer revenue, with 2nm contributing 3% for the first time.",
+          "items": [
+            "Track 2nm ramp and yields",
+            "Watch advanced-node pricing",
+            "Monitor competitor technology progress"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "Capital intensity is rising",
+          "text": "Quarterly CapEx reached $15.7 billion and free cash flow declined sequentially as capital spending rose faster than operating cash flow.",
+          "items": [
+            "Track CapEx versus future capacity demand",
+            "Monitor free-cash-flow conversion",
+            "Watch overseas-fab cost dilution"
+          ]
+        }
+      ],
+      "focusTitle": "Preserve leading-edge technology leadership while keeping capital spending disciplined.",
+      "focusText": "TSMC’s demand and profitability are very strong. The key challenge is executing the 2nm and future-node ramps, serving the AI/HPC demand cycle, and ensuring that large global fab investments do not permanently dilute the exceptional margins the company currently earns."
+    },
+    "sources": [
+      {
+        "title": "TSMC Reports Second Quarter 2026 Results",
+        "meta": "Official TSMC Investor Relations · Jul. 16, 2026",
+        "type": "Primary source",
+        "url": "https://investor.tsmc.com/english/quarterly-results/2026/q2"
+      },
+      {
+        "title": "TSMC Q2 2026 Quarterly Management Report",
+        "meta": "Official TSMC management report · platform, technology, margin and cash-flow data",
+        "type": "Company source",
+        "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf"
+      }
+    ]
+  },
+  "spacex": {
+    "aliases": [
+      "spacex",
+      "spcx",
+      "space x",
+      "space exploration technologies",
+      "space exploration technologies corp",
+      "space exploration technologies corporation"
+    ],
+    "logo": "S",
+    "name": "Space Exploration Technologies Corp. (SpaceX)",
+    "ticker": "SPCX",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected Space, Connectivity, AI, profitability, and balance-sheet signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$7.81B",
+        "delta": "92% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Adjusted EBITDA",
+        "value": "$3.54B",
+        "delta": "191% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Net loss",
+        "value": "-$541M",
+        "delta": "Improved by $467M YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Cash & securities",
+        "value": "$100B",
+        "delta": "Strong post-IPO liquidity",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 7.814,
+        "prior": 4.071,
+        "currentLabel": "$7.814B",
+        "priorLabel": "$4.071B"
+      },
+      {
+        "name": "Adjusted EBITDA",
+        "current": 3.538,
+        "prior": 1.214,
+        "currentLabel": "$3.538B",
+        "priorLabel": "$1.214B"
+      },
+      {
+        "name": "Connectivity revenue",
+        "current": 4.291,
+        "prior": 2.588,
+        "currentLabel": "$4.291B",
+        "priorLabel": "$2.588B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "+92%",
+        "tone": "pos"
+      },
+      {
+        "label": "Connectivity revenue",
+        "value": "+66%",
+        "tone": "pos"
+      },
+      {
+        "label": "AI revenue",
+        "value": "+247%",
+        "tone": "pos"
+      },
+      {
+        "label": "Net loss",
+        "value": "Improving",
+        "tone": "pos"
+      },
+      {
+        "label": "Capital spending",
+        "value": "Very high",
+        "tone": "neutral"
+      }
+    ],
+    "overviewExplainTitle": "SpaceX is growing rapidly across Connectivity and AI while still reporting a GAAP loss.",
+    "overviewExplainText": "Revenue nearly doubled year over year to $7.8 billion, while adjusted EBITDA rose to $3.5 billion. The net loss improved to $541 million from about $1.0 billion a year earlier. Connectivity is the largest revenue segment, while AI is the fastest-growing segment and also the most capital intensive.",
+    "financial": [
+      [
+        "Revenue",
+        "$7.814B",
+        "$4.071B",
+        "+92%"
+      ],
+      [
+        "Loss from operations",
+        "-$143M",
+        "-$970M",
+        "Improved"
+      ],
+      [
+        "Net loss",
+        "-$541M",
+        "-$1.008B",
+        "Improved by $467M"
+      ],
+      [
+        "Adjusted EBITDA",
+        "$3.538B",
+        "$1.214B",
+        "+191%"
+      ],
+      [
+        "Cash, equivalents & marketable securities",
+        "$100B",
+        "—",
+        "Post-IPO liquidity"
+      ],
+      [
+        "Backlog",
+        "$47.5B",
+        "—",
+        "Contracted future business"
+      ],
+      [
+        "Total quarterly CapEx",
+        "$18.369B",
+        "$2.825B",
+        "Much higher"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 7.814,
+        "prior": 4.071,
+        "currentLabel": "$7.814B",
+        "priorLabel": "$4.071B"
+      },
+      {
+        "name": "Adjusted EBITDA",
+        "current": 3.538,
+        "prior": 1.214,
+        "currentLabel": "$3.538B",
+        "priorLabel": "$1.214B"
+      },
+      {
+        "name": "Connectivity revenue",
+        "current": 4.291,
+        "prior": 2.588,
+        "currentLabel": "$4.291B",
+        "priorLabel": "$2.588B"
+      },
+      {
+        "name": "AI revenue",
+        "current": 2.561,
+        "prior": 0.737,
+        "currentLabel": "$2.561B",
+        "priorLabel": "$737M"
+      },
+      {
+        "name": "Space revenue",
+        "current": 0.962,
+        "prior": 0.746,
+        "currentLabel": "$962M",
+        "priorLabel": "$746M"
+      }
+    ],
+    "financialExplainTitle": "The business is scaling fast, but expansion requires enormous investment.",
+    "financialExplainText": "SpaceX increased revenue 92% and adjusted EBITDA 191%, while the net loss narrowed substantially. At the same time, quarterly capital expenditures rose to $18.4 billion, largely because of AI infrastructure investment. That means operating performance is improving quickly, but growth is extremely capital intensive.",
+    "marketContext": "SpaceX reportable business segments",
+    "markets": [
+      {
+        "label": "Connectivity revenue",
+        "value": "$4.291B · up 66%"
+      },
+      {
+        "label": "AI revenue",
+        "value": "$2.561B · up 247%"
+      },
+      {
+        "label": "Space revenue",
+        "value": "$962M · up 29%"
+      },
+      {
+        "label": "Starlink subscribers",
+        "value": "12.0M · doubled YoY"
+      },
+      {
+        "label": "Connectivity operating income",
+        "value": "$1.656B · up 79%"
+      },
+      {
+        "label": "AI operating loss",
+        "value": "-$1.257B"
+      },
+      {
+        "label": "Q2 total launches",
+        "value": "38"
+      },
+      {
+        "label": "Cloud Services Agreements",
+        "value": "$14.1B contracted sales"
+      }
+    ],
+    "marketExplainTitle": "Connectivity is the profit engine today, while AI is the fastest-growing investment area.",
+    "marketExplainText": "Connectivity generated $4.3 billion of revenue and $1.7 billion of operating income, supported by 12 million Starlink subscribers. AI revenue grew much faster, but the AI segment still reported a $1.3 billion operating loss and consumed $15.8 billion of quarterly capital expenditures. Space launch revenue also grew, but remains smaller than Connectivity and AI.",
+    "insights": [
+      [
+        "Public-company transition",
+        "SpaceX completed its IPO in June 2026 and now trades on Nasdaq under SPCX."
+      ],
+      [
+        "Revenue acceleration",
+        "Quarterly revenue increased 92% year over year to $7.814 billion."
+      ],
+      [
+        "Connectivity strength",
+        "Connectivity revenue increased 66% and operating income increased 79%, making Starlink and related services the strongest current profit engine."
+      ],
+      [
+        "AI acceleration",
+        "AI revenue increased 247%, driven largely by AI solutions and infrastructure agreements."
+      ],
+      [
+        "Loss improvement",
+        "Net loss improved to $541 million from about $1.0 billion in the prior-year quarter."
+      ],
+      [
+        "Capital intensity",
+        "Quarterly CapEx reached $18.369 billion, including $15.828 billion in the AI segment."
+      ],
+      [
+        "Balance-sheet strength",
+        "SpaceX reported about $100 billion of cash, cash equivalents, and marketable securities after the IPO."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "SpaceX now has a real public-company financial story: Connectivity funds growth, AI is scaling extremely fast, and capital intensity is the central risk.",
+      "summary": "The latest quarter shows a company moving beyond a pure launch narrative. Connectivity is already a meaningful profit engine, AI is becoming a major revenue source, and Space remains strategically important. Revenue nearly doubled and adjusted EBITDA almost tripled, while the GAAP net loss narrowed. The central question is whether the company can turn its massive AI and Starship investment program into enough future cash flow to justify the scale of spending.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "Connectivity is the current economic engine",
+          "text": "Connectivity generated $4.291 billion of revenue and $1.656 billion of operating income. Starlink subscribers reached 12 million, double the prior-year level.",
+          "items": [
+            "Track subscriber growth and ARPU",
+            "Watch enterprise and government revenue mix",
+            "Monitor Connectivity operating margin"
+          ]
+        },
+        {
+          "label": "Fastest growth area",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "AI is expanding much faster than the rest of the company",
+          "text": "AI revenue increased 247% year over year to $2.561 billion, supported by new Cloud Services Agreements totaling $14.1 billion of contracted sales.",
+          "items": [
+            "Track conversion of contracted sales into recognized revenue",
+            "Watch AI operating-loss improvement",
+            "Measure utilization of new compute capacity"
+          ]
+        },
+        {
+          "label": "Risk to watch",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Capital spending is enormous",
+          "text": "Total Q2 CapEx reached $18.369 billion, including $15.828 billion in AI. That level of investment can create future growth, but it also makes cash returns and capital efficiency critical.",
+          "items": [
+            "Track CapEx versus revenue growth",
+            "Monitor operating cash flow and free cash flow",
+            "Measure return on AI infrastructure and Starship investment"
+          ]
+        },
+        {
+          "label": "What could improve",
+          "priority": "Medium priority",
+          "tone": "medium",
+          "title": "The company still reports a GAAP loss",
+          "text": "SpaceX narrowed its quarterly net loss to $541 million and improved loss from operations to $143 million, but GAAP profitability has not yet been reached.",
+          "items": [
+            "Track path to positive operating income",
+            "Separate adjusted EBITDA from GAAP earnings",
+            "Watch interest expense after the new bond issuance"
+          ]
+        },
+        {
+          "label": "Strategic asset",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "The balance sheet gives SpaceX unusual investment capacity",
+          "text": "SpaceX ended the quarter with about $100 billion in cash, cash equivalents, and marketable securities and $47.5 billion in backlog.",
+          "items": [
+            "Track use of IPO and bond proceeds",
+            "Watch acquisition spending",
+            "Measure backlog conversion into revenue"
+          ]
+        },
+        {
+          "label": "Operating execution",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Starship still matters to the long-term economics",
+          "text": "The Space segment remains loss-making as SpaceX increases Starship R&D. Full and rapid reusability is intended to materially reduce launch costs and support all three business segments.",
+          "items": [
+            "Track Starship test milestones",
+            "Watch launch-cost improvements",
+            "Measure how Starship supports Starlink and AI infrastructure deployment"
+          ]
+        }
+      ],
+      "focusTitle": "The main focus should be turning extraordinary growth and capital spending into durable GAAP profitability and cash returns.",
+      "focusText": "SpaceX now has multiple real revenue engines, and Connectivity already produces meaningful operating income. The next phase is proving that the AI buildout, Starship development, and post-IPO balance sheet can create sustained operating profit and cash flow rather than simply higher revenue and adjusted EBITDA."
+    },
+    "sources": [
+      {
+        "title": "SpaceX Reports Second Quarter 2026 Results",
+        "meta": "Official SpaceX earnings release filed with the SEC · Aug. 4, 2026",
+        "type": "Primary source",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+      },
+      {
+        "title": "SpaceX Q2 2026 Form 10-Q",
+        "meta": "U.S. Securities and Exchange Commission · CIK 0001181412",
+        "type": "Regulatory source",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052535/spcx-20260630.htm"
+      },
+      {
+        "title": "SpaceX Investor Relations",
+        "meta": "Official financials, filings, events and investor updates · Nasdaq: SPCX",
+        "type": "Company source",
+        "url": "https://ir.spacex.com/investors/default.aspx"
+      }
+    ]
+  },
+  "meta": {
+    "aliases": [
+      "meta",
+      "meta platforms",
+      "meta platforms inc",
+      "meta platforms, inc.",
+      "facebook"
+    ],
+    "logo": "M",
+    "name": "Meta Platforms, Inc.",
+    "ticker": "META",
+    "period": "Fiscal Q2 2026 · ended Jun. 30, 2026",
+    "overviewSub": "Latest reported quarter with selected advertising, expense, profitability, engagement, and AI-investment signals.",
+    "metrics": [
+      {
+        "label": "Revenue",
+        "value": "$60.8B",
+        "delta": "28% higher YoY",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating income",
+        "value": "$18.8B",
+        "delta": "8% lower YoY",
+        "tone": "neg"
+      },
+      {
+        "label": "Net income",
+        "value": "$15.8B",
+        "delta": "14% lower YoY",
+        "tone": "neg"
+      },
+      {
+        "label": "Daily active people",
+        "value": "3.60B",
+        "delta": "3% higher YoY",
+        "tone": "pos"
+      }
+    ],
+    "chart": [
+      {
+        "name": "Revenue",
+        "current": 60.801,
+        "prior": 47.516,
+        "currentLabel": "$60.801B",
+        "priorLabel": "$47.516B"
+      },
+      {
+        "name": "Operating income",
+        "current": 18.775,
+        "prior": 20.441,
+        "currentLabel": "$18.775B",
+        "priorLabel": "$20.441B"
+      },
+      {
+        "name": "Net income",
+        "current": 15.848,
+        "prior": 18.337,
+        "currentLabel": "$15.848B",
+        "priorLabel": "$18.337B"
+      }
+    ],
+    "health": [
+      {
+        "label": "Revenue growth",
+        "value": "Strong",
+        "tone": "pos"
+      },
+      {
+        "label": "Ad impressions",
+        "value": "+14%",
+        "tone": "pos"
+      },
+      {
+        "label": "Average price per ad",
+        "value": "+12%",
+        "tone": "pos"
+      },
+      {
+        "label": "Operating margin",
+        "value": "31% vs. 43%",
+        "tone": "neg"
+      },
+      {
+        "label": "Free cash flow",
+        "value": "$784M",
+        "tone": "neg"
+      }
+    ],
+    "overviewExplainTitle": "Meta’s revenue engine is strong, but expenses are currently growing much faster than sales.",
+    "overviewExplainText": "Revenue increased 28%, helped by both higher ad impressions and higher average ad prices. However, costs and expenses increased 55%, causing operating income, net income, EPS, and operating margin to decline. That makes expense growth and AI infrastructure investment the central issue beneath otherwise strong revenue growth.",
+    "financial": [
+      [
+        "Revenue",
+        "$60.801B",
+        "$47.516B",
+        "+28%"
+      ],
+      [
+        "Costs and expenses",
+        "$42.026B",
+        "$27.075B",
+        "+55%"
+      ],
+      [
+        "Operating income",
+        "$18.775B",
+        "$20.441B",
+        "-8%"
+      ],
+      [
+        "Operating margin",
+        "31%",
+        "43%",
+        "-12 pts"
+      ],
+      [
+        "Net income",
+        "$15.848B",
+        "$18.337B",
+        "-14%"
+      ],
+      [
+        "Diluted EPS",
+        "$6.18",
+        "$7.14",
+        "-13%"
+      ],
+      [
+        "Free cash flow",
+        "$784M",
+        "—",
+        "Under pressure"
+      ]
+    ],
+    "financialChart": [
+      {
+        "name": "Revenue",
+        "current": 60.801,
+        "prior": 47.516,
+        "currentLabel": "$60.801B",
+        "priorLabel": "$47.516B"
+      },
+      {
+        "name": "Costs & expenses",
+        "current": 42.026,
+        "prior": 27.075,
+        "currentLabel": "$42.026B",
+        "priorLabel": "$27.075B"
+      },
+      {
+        "name": "Operating income",
+        "current": 18.775,
+        "prior": 20.441,
+        "currentLabel": "$18.775B",
+        "priorLabel": "$20.441B"
+      },
+      {
+        "name": "Net income",
+        "current": 15.848,
+        "prior": 18.337,
+        "currentLabel": "$15.848B",
+        "priorLabel": "$18.337B"
+      }
+    ],
+    "financialExplainTitle": "Revenue growth is being absorbed by much faster expense growth.",
+    "financialExplainText": "Revenue increased 28%, but total costs and expenses increased 55%. That pushed operating margin down from 43% to 31%, operating income down 8%, and net income down 14%. The core advertising business is growing strongly, but the current investment cycle is reducing near-term profitability.",
+    "marketContext": "Advertising, engagement, and segment signals",
+    "markets": [
+      {
+        "label": "Family daily active people",
+        "value": "3.60B · up 3%"
+      },
+      {
+        "label": "Ad impressions",
+        "value": "up 14%"
+      },
+      {
+        "label": "Average price per ad",
+        "value": "up 12%"
+      },
+      {
+        "label": "Family of Apps revenue",
+        "value": "$60.37B"
+      },
+      {
+        "label": "Family of Apps operating income",
+        "value": "$23.39B"
+      },
+      {
+        "label": "Reality Labs operating loss",
+        "value": "-$4.62B"
+      }
+    ],
+    "marketExplainTitle": "Advertising remains very strong, while AI and Reality Labs investment pressure profitability.",
+    "marketExplainText": "Meta’s advertising engine is growing through both higher ad volume and higher pricing. Family of Apps remains highly profitable, but Reality Labs continues to generate large losses and overall company spending has risen sharply as Meta invests in AI infrastructure and next-generation products.",
+    "insights": [
+      [
+        "Ad engine",
+        "Ad impressions increased 14% and average price per ad increased 12%, supporting 28% total revenue growth."
+      ],
+      [
+        "Expense pressure",
+        "Costs and expenses increased 55%, substantially faster than revenue."
+      ],
+      [
+        "Margin compression",
+        "Operating margin fell from 43% to 31%."
+      ],
+      [
+        "Profit decline",
+        "Operating income fell 8% and net income fell 14% despite strong revenue growth."
+      ],
+      [
+        "Engagement scale",
+        "Family daily active people reached 3.60 billion, up 3% year over year."
+      ],
+      [
+        "Capital intensity",
+        "Capital expenditures were $31.08 billion and free cash flow was only $784 million in the quarter."
+      ]
+    ],
+    "deepAnalysis": {
+      "headline": "Meta does not have a revenue-growth problem — it has a spending and capital-intensity problem that management must justify with future AI-driven returns.",
+      "summary": "The advertising business is performing very well. Both ad impressions and price per ad increased, driving 28% revenue growth. Yet costs rose 55%, operating margin fell 12 percentage points, and net income declined. That tells a very different story from the top line: Meta is intentionally spending aggressively on AI infrastructure, talent, legal matters, and future products. The key question is whether those investments create enough future revenue and efficiency to restore margin expansion.",
+      "cards": [
+        {
+          "label": "What stands out",
+          "priority": "Positive",
+          "tone": "positive",
+          "title": "The advertising engine is still very strong",
+          "text": "Meta increased both ad impressions and average ad price, which is a powerful combination because growth is coming from both volume and monetization.",
+          "items": [
+            "Track ad impressions and price together",
+            "Watch AI-driven ad conversion performance",
+            "Monitor engagement across the Family of Apps"
+          ]
+        },
+        {
+          "label": "What needs improvement",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Expense growth is far too high to ignore",
+          "text": "Costs and expenses increased 55% versus 28% revenue growth. That caused operating income and net income to fall.",
+          "items": [
+            "Track expense growth versus revenue growth",
+            "Separate one-time legal/severance charges from recurring costs",
+            "Watch AI infrastructure depreciation and staffing costs"
+          ]
+        },
+        {
+          "label": "Structural drag",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Reality Labs remains a major loss center",
+          "text": "Reality Labs generated only $431 million of revenue while producing a $4.62 billion operating loss.",
+          "items": [
+            "Track losses relative to product adoption",
+            "Watch whether AI wearables improve monetization",
+            "Evaluate capital allocation between core AI and Reality Labs"
+          ]
+        },
+        {
+          "label": "Cash-flow risk",
+          "priority": "High priority",
+          "tone": "high",
+          "title": "Heavy investment is compressing free cash flow",
+          "text": "Meta generated $31.86 billion of operating cash flow but only $784 million of free cash flow after very large property and equipment spending.",
+          "items": [
+            "Track CapEx against future revenue gains",
+            "Watch free-cash-flow recovery",
+            "Measure returns from data-center and AI infrastructure spending"
+          ]
+        }
+      ],
+      "focusTitle": "Prove that aggressive AI investment can restore profit growth and free cash flow.",
+      "focusText": "Meta’s core ad business is healthy. Management’s challenge is controlling the pace and quality of spending so that AI infrastructure and product investments eventually produce enough additional revenue or efficiency to bring operating margin, net income, and free cash flow back into stronger growth."
+    },
+    "sources": [
+      {
+        "title": "Meta Reports Second Quarter 2026 Results",
+        "meta": "Official Meta Investor Relations · Jul. 29, 2026",
+        "type": "Primary source",
+        "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/"
+      },
+      {
+        "title": "Meta Financials",
+        "meta": "Official quarterly earnings and SEC filing archive · NASDAQ: META",
+        "type": "Company source",
+        "url": "https://investor.atmeta.com/financials/"
+      }
+    ]
+  }
+}
