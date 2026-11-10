@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Company Data and Solutions</title>
+<meta name="description" content="Company financial performance, market signals, and plain English business analysis." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="app" id="appRoot">
+  <header class="nav">
+    <button class="brand brandBtn" id="brandHome" type="button"><div class="mark">CDS</div>Company Data and Solutions</button>
+    <div class="navRight">
+      <button class="navAction" id="navSaved" type="button" aria-pressed="false">Saved (0)</button>
+      <button class="navAction" id="navCompare" type="button">Compare</button>
+    </div>
+  </header>
+
+  <main id="welcome">
+    <div class="welcomeInner">
+      <div class="eyebrow">Company data intelligence</div>
+      <h1>Explore companies. Understand the numbers.</h1>
+      <p class="sub">Search a supported public company to explore verified financial data, performance trends, market signals, and straightforward explanations of what the numbers actually mean.</p>
+
+      <div class="searchPanel">
+        <input id="searchInput" placeholder="Enter a company name or ticker" autocomplete="off" aria-label="Company search">
+        <button id="analyzeBtn">Analyze company</button>
+      </div>
+
+      <p class="coverageText" id="coverageText">484 companies available · Source linked financial data · Browse by sector</p>
+      <div class="directoryHeader"><div class="directoryTabs" role="group" aria-label="Company list"><button id="allCompaniesTab" type="button" aria-pressed="true">All companies</button><button id="savedCompaniesTab" type="button" aria-pressed="false">Saved (0)</button></div><span class="localSaveNote">Saved in this browser</span></div>
+      <div class="browseHead"><label for="sectorFilter">Browse by sector</label><select id="sectorFilter" aria-label="Filter by sector"></select></div>
+      <p class="resultCount" id="resultCount" aria-live="polite"></p>
+      <div class="companyResults" id="companyResults"></div>
+      <button class="moreCompanies" id="moreCompanies" type="button">Show more companies</button>
+      <div class="welcomeGrid">
+        <div class="feature">
+          <div class="featureNo">01</div>
+          <strong>Verified company data</strong>
+          <p>Match the company first, then tie the metrics back to official filings and investor-relations sources.</p>
+        </div>
+        <div class="feature">
+          <div class="featureNo">02</div>
+          <strong>Business analysis</strong>
+          <p>Turn raw numbers into growth rates, profitability signals, channel trends, and performance flags.</p>
+        </div>
+        <div class="feature">
+          <div class="featureNo">03</div>
+          <strong>Simple explanations</strong>
+          <p>Every major section explains what changed, why it matters, and what someone should pay attention to next.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <main id="workspace">
+    <div class="heroWrap">
+      <div class="companyHero">
+        <div class="companyTop">
+          <div class="companyIdentity">
+            <div class="logoBox" id="logoBox">N</div>
+            <div>
+              <div class="companyName" id="companyName"></div>
+              <div class="companyMeta">
+                <span id="ticker"></span>
+                <span>•</span>
+                <span class="sourceLinked" id="sourceBasis">SEC annual snapshot</span>
+              </div>
+            </div>
+          </div>
+          <div class="snapshot">
+            <div class="reportCard">
+              <div class="snapshotLabel" id="periodLabel">Annual reporting period</div>
+              <div class="reportMain" id="periodMain"></div>
+              <div class="reportSub" id="periodEnd"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="companyTools"><button id="saveCurrentBtn" class="outlineButton" type="button" aria-pressed="false">Save company</button><button id="compareCurrentBtn" class="outlineButton" type="button" aria-pressed="false">Add to comparison</button></div>
+    <div class="tabsWrap">
+      <div class="tabs">
+        <button class="tab active" data-tab="overview">Overview</button>
+        <button class="tab" data-tab="financials">Financials</button>
+        <button class="tab" data-tab="markets">Markets</button>
+        <button class="tab" data-tab="insights">Insights</button>
+        <button class="tab" data-tab="deepanalysis">Deep Analysis</button>
+        <button class="tab" data-tab="sources">Sources</button>
+      </div>
+    </div>
+
+    <div class="content">
+      <section class="section active" id="overview">
+        <div class="sectionHead">
+          <div><h2>Company snapshot</h2><p id="overviewSub"></p></div>
+        </div>
+        <div class="metrics" id="metrics"></div>
+
+        <div class="layout2">
+          <div class="panel">
+            <div class="panelHead"><h3 id="comparisonHeading">Annual comparison</h3><span id="comparisonPeriod">Current vs. prior annual period</span></div>
+            <div class="panelBody">
+              <div class="chartFrame" id="chartFrame">
+                <div id="barChart" role="group" aria-label="Annual comparison with exact values"></div>
+              </div>
+              <div class="chartNote" id="overviewChartNote"></div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panelHead"><h3>Business signals</h3><span>Quick read</span></div>
+            <div class="panelBody" id="health"></div>
+          </div>
+        </div>
+
+        <div class="explainBox">
+          <div class="explainKicker">What this means</div>
+          <div class="explainTitle" id="overviewExplainTitle"></div>
+          <p class="explainText" id="overviewExplainText"></p>
+        </div>
+      </section>
+
+      <section class="section" id="financials">
+        <div class="sectionHead">
+          <div><h2>Financials</h2><p id="financialSubtitle">Full reported USD amounts and matched annual comparisons. EPS is USD per share.</p></div>
+        </div>
+        <div class="tableWrap"><table class="dataTable">
+          <thead><tr><th scope="col">Metric</th><th scope="col">Current</th><th scope="col">Prior year</th><th scope="col">Change</th></tr></thead>
+          <tbody id="financialTable"></tbody>
+        </table></div>
+
+        <div class="finChartWrap">
+          <div class="finChartHead">
+            <h3>Financial comparison</h3>
+            <span id="financialPeriod">Current vs. prior annual period</span>
+          </div>
+          <div class="finChartBody">
+            <div class="finChartFrame" id="finChartFrame">
+              <div id="financialBarChart" role="group" aria-label="Financial comparison with exact values"></div>
+            </div>
+            <div class="chartNote" id="financialChartNote"></div>
+          </div>
+        </div>
+
+        <div class="explainBox">
+          <div class="explainKicker">How to read this</div>
+          <div class="explainTitle" id="financialExplainTitle"></div>
+          <p class="explainText" id="financialExplainText"></p>
+        </div>
+      </section>
+
+      <section class="section" id="markets">
+        <div class="sectionHead">
+          <div><h2>Markets</h2><p id="marketsSubtitle">Company classification and reporting context for interpreting the figures.</p></div>
+        </div>
+        <div class="layout2">
+          <div class="panel">
+            <div class="panelHead"><h3 id="marketPanelTitle">Market context</h3><span id="marketContext"></span></div>
+            <div class="panelBody" id="marketRows"></div>
+          </div>
+          <div class="panel">
+            <div class="panelHead"><h3>Interpretation</h3><span>Plain English</span></div>
+            <div class="panelBody">
+              <div class="explainKicker">What changed</div>
+              <div class="explainTitle" id="marketExplainTitle"></div>
+              <p class="explainText" id="marketExplainText"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="insights">
+        <div class="sectionHead">
+          <div><h2>Insights</h2><p id="insightsSubtitle">Rule-based explanations calculated from matched annual SEC facts.</p></div>
+        </div>
+        <div class="insightGrid" id="insightGrid"></div>
+      </section>
+
+      <section class="section" id="deepanalysis">
+        <div class="sectionHead">
+          <div><h2>Deep Analysis</h2><p id="deepSubtitle">What stands out, what could improve, and where to focus next.</p></div>
+        </div>
+        <div class="deepLead">
+          <div class="explainKicker">Overall read</div>
+          <h3 id="deepHeadline"></h3>
+          <p id="deepSummary"></p>
+        </div>
+        <div class="deepGrid" id="deepGrid"></div>
+        <div class="deepBottom">
+          <div class="explainKicker">Main focus</div>
+          <h4 id="deepFocusTitle"></h4>
+          <p id="deepFocusText"></p>
+        </div>
+      </section>
+
+      <section class="section" id="sources">
+        <div class="sectionHead">
+          <div><h2>Sources</h2><p id="sourcesSubtitle">Original filings, accounting concepts, exact reporting periods, and extraction limits.</p></div>
+        </div>
+        <div id="sourceList"></div>
+      </section>
+    </div>
+  </main>
+
+  <main id="savedScreen" class="savedScreen" hidden>
+    <div class="savedHead"><div class="eyebrow">Your collection</div><h1 id="savedTitle" tabindex="-1">Saved companies</h1><p>The companies you’ve kept for later. Open a report or add companies to a comparison.</p></div>
+    <p id="savedCount" class="resultCount" aria-live="polite"></p>
+    <div id="savedResults" class="companyResults"></div>
+    <p id="savedEmpty" class="directoryEmpty">No saved companies yet. Select Save on a company card to keep it here.</p>
+    <p class="chartNote">Saved in this browser.</p>
+  </main>
+
+  <main id="compareScreen" class="comparisonScreen" hidden>
+    <div class="comparisonTop"><div><div class="eyebrow">Side by side</div><h1 id="compareTitle" tabindex="-1">Compare companies</h1><p>Look beyond company size. Compare annual growth, income and cash on clearly labeled reporting periods.</p></div></div>
+    <form id="comparisonSearchForm" class="comparisonSearchForm" novalidate>
+      <div class="comparisonSearchRow">
+        <label for="comparisonFirst">Company 1<input id="comparisonFirst" type="search" list="comparisonCompanyOptions" placeholder="Company name or ticker" autocomplete="off" aria-describedby="comparisonSearchError" required></label>
+        <label for="comparisonSecond">Company 2<input id="comparisonSecond" type="search" list="comparisonCompanyOptions" placeholder="Company name or ticker" autocomplete="off" aria-describedby="comparisonSearchError" required></label>
+        <label for="comparisonThird">Company 3<input id="comparisonThird" type="search" list="comparisonCompanyOptions" placeholder="Company name or ticker (optional)" autocomplete="off" aria-describedby="comparisonSearchError"></label>
+        <button id="compareSearchButton" type="submit" class="solidButton">Compare</button>
+      </div>
+      <datalist id="comparisonCompanyOptions"></datalist>
+      <p id="comparisonSearchError" class="comparisonSearchError" role="alert" hidden></p>
+    </form>
+    <div class="comparisonSelection" id="comparisonSelection" aria-label="Selected companies"></div>
+    <p id="comparisonEmpty" class="chartNote">Enter two or three different companies above, then select Compare.</p>
+    <div id="comparisonContent" hidden>
+      <div class="comparisonToolbar"><label for="comparisonMetric">Chart measure<select id="comparisonMetric"><option value="growth">Revenue change (%)</option><option value="ratio">Income / revenue (%)</option><option value="cash">Operating cash flow (USD)</option></select></label></div>
+      <div class="peerChart" id="peerChart" role="group" aria-label="Selected annual measure"></div>
+      <p id="comparisonContext" class="comparisonContext"></p>
+      <div class="tableWrap comparisonTableWrap"><table class="dataTable comparisonTable"><thead id="comparisonTableHead"></thead><tbody id="comparisonTableBody"></tbody></table></div>
+      <p class="chartNote">These are saved annual results. Each company’s exact period and measure labels are shown. Original profile pages can cover a different reporting period. Open a report for its sources and detailed analysis.</p>
+    </div>
+  </main>
+  <div id="featureNotice" class="featureNotice" role="status" aria-live="polite" hidden></div>
+  <aside id="compareDock" class="compareDock" aria-label="Comparison selection" hidden><div><span class="dockLabel" id="dockLabel">Compare companies</span><div id="dockCompanies" class="dockCompanies"></div></div><div class="dockActions"><button id="clearComparison" class="textButton" type="button">Clear</button><button id="openComparison" class="solidButton" type="button">Compare</button></div></aside>
+
+  <div id="notFound" class="notFound" role="alert">
+    <h3>No supported company matched that search.</h3>
+    <p id="notFoundDetail"></p>
+    <button id="backBtn">Back to search</button>
+  </div>
+</div>
+
+<script id="companyData" type="application/json">{{COMPANY_DATA}}</script>
+<!-- APPLICATION_SCRIPTS -->
+</body>
+</html>
